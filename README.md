@@ -40,10 +40,15 @@ What do our users need and what does success look like?
 
 
 ### Wireframes
+![Wireframe 1](https://sarahmurphy86.github.io/assets/wireframe_version_1.png)
 
+![Wireframe 2](https://sarahmurphy86.github.io/assets/wireframe_version_2.png)
+
+![Wireframe 3](https://sarahmurphy86.github.io/assets/wireframe_version_3.png)
 
 ### Prototype
 
+You can find a link to an interactive mock-up of the site on by downloading the HTML code below.
 
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
