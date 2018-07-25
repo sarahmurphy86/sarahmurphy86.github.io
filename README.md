@@ -7,10 +7,45 @@ I am passionate about technology and human behaviour, and how they interact with
 
 The BBC are looking to improve their online offering of educational content by developing some interactive apps that display information in a fun and interesting way.
 
-## The project
-We chose to design an app aimed at children 8 to 11 years old to help them recognise geographical points of interest. The user will be shown an image of a famous landmark, and be asked to click a map to show where in the world they think this famous landmark is located. The user will then find out if their guess was correct, and will be shown some interesting facts on the famous landmark and the country it is in. 
 
-> I would like to share the UX methods we used our project, and the accessibility considerations we made
+>We chose to design an app aimed at children 8 to 11 years old to help them recognise geographical points of interest. The >user will be shown an image of a famous landmark, and be asked to click a map to show where in the world they think this >famous landmark is located. The user will then find out if their guess was correct, and will be shown some interesting facts >on the famous landmark and the country it is in. 
+
+
+I would like to share the UX methods we used our project, and the accessibility considerations we made
+
+
+##Discovery Methods
+
+###Proto-personas: who are our users, how do they behave and what are their needs and goals?
+
+
+###User needs: what do our users need and what does success look like?
+
+| As a...                         | I want to...                                 | So that ...|
+|:--------------------------------|:---------------------------------------------|:-----------------------------------------|
+| As an eight  year old boy       | Learn about where the countries of the world |I can improve on my geography             | |                                 | are and their famous landmarks               |                                          | 
+| As a ten year old girl          | Play a cool game                             | I can have a competition with my friends | 
+| As a person who is colourblind  | Be able to interact with the app easily,     | I can join in the fun too                |
+|                                 | and not need to rely on colours alone to     |                                          | 
+|                                 | navigate through the site                    |                                          |
+| Primary school teacher          | Have an educational game that is free to use | My students can learn about the geography|
+|                                 | and I can share with my class                | of the world and have fun doing it.      |
+                                                             
+
+##Interface Sketching
+
+###Wireframes
+
+###Prototype
+
+[Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
+
+###User Testing
+
+
+
+
+
 
 
 ### Header 3
