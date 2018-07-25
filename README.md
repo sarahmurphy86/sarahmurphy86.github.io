@@ -1,26 +1,17 @@
-# Sarah Murphy UX Portfolio
+# “If the user can’t use it, it doesn’t work.” _Susan Dray_ 
 
 ---
-layout: default
----
+I am passionate about technology and human behaviour, and how they interact with one another. I want to be involved in designing and building software that feels intuitive, user friendly and accessible to all.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# The brief
 
-[Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).
+The BBC are looking to improve their online offering of educational content by developing some interactive apps that display information in a fun and interesting way.
 
-There should be whitespace between paragraphs.
+## The project
+We chose to design an app aimed at children 8 to 11 years old to help them recognise geographical points of interest. The user will be shown an image of a famous landmark, and be asked to click a map to show where in the world they think this famous landmark is located. The user will then find out if their guess was correct, and will be shown some interesting facts on the famous landmark and the country it is in. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+> I would like to share the UX methods we used our project, and the accessibility considerations we made
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
@@ -38,7 +29,9 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+[Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).
 #### Header 4
 
 *   This is an unordered list following a header.
