@@ -27,7 +27,7 @@ What do our users need and what does success look like?
 |:---------------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
 | Eight  year old boy        | Learn about where the countries of the world                                                                |I can improve on my geography                              | 
 | Ten year old girl          | Play a cool game                                                                                            |I can have a competition with my friends                   |         
-| Person who is colourblind  | Be able to interact with the app easily,and not need to rely on colours alone to navigate through the site  |I can join in the fun too                                  |
+| Person who is colourblind  | Be able to interact with the app easily, and not need to rely on colours alone to navigate through the site  |I can join in the fun too                                  |
 | Primary school teacher     | Have an educational game that is free to use and and I can share with my class                              |My students can learn about geography and have fun doing it|
 
  * * *                                                            
@@ -38,13 +38,6 @@ What do our users need and what does success look like?
 
 ![Sketching](https://github.com/sarahmurphy86/sarahmurphy86.github.io/blob/master/JavaScript_project_sketch_landmark_view.jpg)
 
-![Alt text](/sarahmurphy86.github.io/blob/master/assets/JavaScript_project_sketch_landmark_view.jpg?raw=true "Optional Title")
-
-
-(https://raw.github.com/sarahmurphy86/sarahmurphy86.github.io/master/assets/JavaScript_project_sketch_landmark_view.jpg)
-
-Markdown example ![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
-![Sketching](https://github.com/sarahmurphy86/sarahmurphy86.github.io/blob/master/assets/JavaScript_project_sketch_landmark_view.jpg)
 
 ### Wireframes
 
