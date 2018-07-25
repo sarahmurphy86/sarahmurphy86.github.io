@@ -13,40 +13,41 @@ The BBC are looking to improve their online offering of educational content by d
 
 I would like to share the UX methods we used our project, and the accessibility considerations we made
 
-### Discovery Methods
+## Discovery Methods
 
+### Proto-personas
 
-###Proto-personas: who are our users, how do they behave and what are their needs and goals?
+Who are our users, how do they behave and what are their needs and goals?
 
+### User Needs:
 
-###User needs: what do our users need and what does success look like?
+What do our users need and what does success look like?
 
-| As a...                         | I want to...                                 | So that ...                              |
-|:--------------------------------|:---------------------------------------------|:-----------------------------------------|
-| As an eight  year old boy       | Learn about where the countries of the world |I can improve on my geography             | 
-| As a person who is colourblind  | Be able to interact with the app easily,     |I can join in the fun too                 |
-|                                 | and not need to rely on colours alone to     |                                          | 
-|                                 | navigate through the site                    |                                          |
-| Primary school teacher          | Have an educational game that is free to use | My students can learn about the geography|
-|                                 | and I can share with my class                | of the world and have fun doing it.      |
+| As a...                         | I want to...                                                                                                | So that ...                                               |
+|:--------------------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
+| As an eight  year old boy       | Learn about where the countries of the world                                                                |I can improve on my geography                              | 
+| As a ten year old girl          | Play a cool game                                                                                            |I can have a competition with my friends                   |         
+| As a person who is colourblind  | Be able to interact with the app easily,and not need to rely on colours alone to navigate through the site  |I can join in the fun too                                  |
+| Primary school teacher          | Have an educational game that is free to use and and I can share with my class                              |My students can learn about geography and have fun doing it|                                      | 
+
  * * *                                                            
 
-### Design Methods:
+## Design Methods:
 
-##### Sketching
+#### Sketching
 
 ![Sketching](https://github.com/sarahmurphy86/sarahmurphy86.github.io/blob/master/JavaScript_project_sketch_landmark_view.jpg)
 
-##### Wireframes
+#### Wireframes
 
 
-##### Prototype
+#### Prototype
 
 
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
 ##### User testing
-
+![user testing image]({{ https://sarahmurphy86.github.io/ }}/assets/user_testing_image.jpg)
 
 
 
