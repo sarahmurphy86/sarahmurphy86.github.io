@@ -1,7 +1,7 @@
 # “If the user can’t use it, it doesn’t work.” _Susan Dray_ 
 
 ---
-I am passionate about technology and human behaviour, and how they interact with one another. I want to be involved in designing and building software that feels intuitive, user friendly and accessible to all.
+I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible to all.
 
 # The brief
 
@@ -21,7 +21,7 @@ I would like to share the UX methods we used our project, and the accessibility 
 
 ###User needs: what do our users need and what does success look like?
 
-| As a...                         | I want to...                                 | So that ...|
+| As a...                         | I want to...                                 | So that ...                              |
 |:--------------------------------|:---------------------------------------------|:-----------------------------------------|
 | As an eight  year old boy       | Learn about where the countries of the world |I can improve on my geography             | |                                 | are and their famous landmarks               |                                          | 
 | As a ten year old girl          | Play a cool game                             | I can have a competition with my friends | 
@@ -33,6 +33,8 @@ I would like to share the UX methods we used our project, and the accessibility 
                                                              
 
 ##Interface Sketching
+
+![Sketching](https://github.com/sarahmurphy86/sarahmurphy86.github.io/blob/master/JavaScript_project_sketch_landmark_view.jpg)
 
 ###Wireframes
 
