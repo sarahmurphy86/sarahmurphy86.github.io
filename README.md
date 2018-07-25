@@ -47,7 +47,7 @@ What do our users need and what does success look like?
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
 ##### User testing
-![user testing image]({{ https://sarahmurphy86.github.io/ }}/assets/user_testing_image.jpg)
+![user testing image](https://sarahmurphy86.github.io/assets/user_testing_image.jpg)
 
 
 
