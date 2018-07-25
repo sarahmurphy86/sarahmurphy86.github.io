@@ -23,12 +23,12 @@ Who are our users, how do they behave and what are their needs and goals?
 
 What do our users need and what does success look like?
 
-| As a...                         | I want to...                                                                                                | So that ...                                               |
-|:--------------------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
-| As an eight  year old boy       | Learn about where the countries of the world                                                                |I can improve on my geography                              | 
-| As a ten year old girl          | Play a cool game                                                                                            |I can have a competition with my friends                   |         
-| As a person who is colourblind  | Be able to interact with the app easily,and not need to rely on colours alone to navigate through the site  |I can join in the fun too                                  |
-| Primary school teacher          | Have an educational game that is free to use and and I can share with my class                              |My students can learn about geography and have fun doing it|                                      | 
+| As a...                    | I want to...                                                                                                | So that ...                                               |
+|:---------------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
+| Eight  year old boy        | Learn about where the countries of the world                                                                |I can improve on my geography                              | 
+| Ten year old girl          | Play a cool game                                                                                            |I can have a competition with my friends                   |         
+| Person who is colourblind  | Be able to interact with the app easily,and not need to rely on colours alone to navigate through the site  |I can join in the fun too                                  |
+| Primary school teacher     | Have an educational game that is free to use and and I can share with my class                              |My students can learn about geography and have fun doing it|
 
  * * *                                                            
 
@@ -47,7 +47,7 @@ What do our users need and what does success look like?
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
 ##### User testing
-![user testing image](https://sarahmurphy86.github.io/assets/user_testing_image.jpg)
+![User testing image](https://sarahmurphy86.github.io/assets/user_testing_image.jpg)
 
 
 
