@@ -34,21 +34,24 @@ What do our users need and what does success look like?
 
 ## Design Methods:
 
-#### Sketching
+### Sketching
 
 ![Sketching](https://github.com/sarahmurphy86/sarahmurphy86.github.io/blob/master/JavaScript_project_sketch_landmark_view.jpg)
 
-#### Wireframes
+### Wireframes
 
 
-#### Prototype
+### Prototype
 
 
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
-##### User testing
+## User Testing:
 ![User testing image](https://sarahmurphy86.github.io/assets/user_testing_image.jpg)
 
+### Design Changes:
+
+### Accessibility Considerations:
 
 
 
