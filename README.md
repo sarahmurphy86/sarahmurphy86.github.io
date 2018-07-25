@@ -35,6 +35,7 @@ What do our users need and what does success look like?
 ## Design Methods:
 
 ### Sketching
+![alt text](https://raw.githubusercontent.com/sarahmurphy86.github.io/blob/master/JavaScript_project_sketch_landmark_view.jpg)
 
 ![Sketching](https://github.com/sarahmurphy86/sarahmurphy86.github.io/blob/master/JavaScript_project_sketch_landmark_view.jpg)
 
