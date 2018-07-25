@@ -38,6 +38,9 @@ What do our users need and what does success look like?
 
 ![Sketching](https://github.com/sarahmurphy86/sarahmurphy86.github.io/blob/master/JavaScript_project_sketch_landmark_view.jpg)
 
+![Alt text](/sarahmurphy86.github.io/blob/master/assets/JavaScript_project_sketch_landmark_view.jpg?raw=true "Optional Title")
+
+
 ![Sketching](https://github.com/sarahmurphy86/sarahmurphy86.github.io/blob/master/assets/JavaScript_project_sketch_landmark_view.jpg)
 
 ### Wireframes
