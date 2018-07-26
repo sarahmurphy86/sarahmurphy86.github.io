@@ -16,7 +16,7 @@ The BBC are looking to improve their online offering of educational content by d
 
 ***
 
-### The approach...
+### Our approach...
 
 #### Proto-personas
 
@@ -97,9 +97,9 @@ The users suggested the following improvements, if we had more time we would hav
 * Users would have like this to be a game
 
 #### Challenges
-1. Ensuring that the team kept the user at the heart of the product (not adding 'cool' features because we can)
-2. Time constraints
-3. Adapting to working with a new team with different working styles
+* Ensuring that the team kept the user at the heart of the product (not adding 'cool' features because we can)
+* Time constraints
+* Adapting to working with a new team with different working styles
 
 
 ### You can find a link to the app below:
