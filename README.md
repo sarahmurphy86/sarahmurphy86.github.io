@@ -54,7 +54,7 @@ You can find a link to an interactive mock-up of the site on by downloading the 
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
 ## Process Map:
-![Process Map](https://sarahmurphy86.github.io/assets/process_map.png)
+![Process Map](https://sarahmurphy86.github.io/process_map.png)
 
 ## User Testing:
 
