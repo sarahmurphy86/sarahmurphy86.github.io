@@ -71,13 +71,13 @@ You can take a look at the prototype by downloading the HTML code below.
 
 Following our user testing, the following changes were made to the app:-
 
-1. **Submit button made visible** - we worked on CSS to ensure that the submit button was visible on the page without scrolling.
-2. **Colour overlay changed** - the colour overlay used to indicate what country had been clicked was changed from green to orange.
+1. **Submit button made visible** - we worked on CSS to ensure that the submit button was visible on the page without the need for the user to scroll to find it
+2. **Colour overlay changed** - the colour overlay used to indicate what country had been clicked was changed from green to orange
 3. **Images of character** -  our character was added to the pictures of the famous landmarks to ensure that the narrative flowed
 4. **Landmark pin** - work was done on this to ensure the landmark pin clearly indicated the country
 5. **Voice over** - added to the app to indicate whether the user had guessed correctly 
 
-#### Accessibility considerations that we implemented
+#### Accessibility considerations
 
 | Feature                               | Why                                                                                         | 
 |:--------------------------------------|:--------------------------------------------------------------------------------------------|
