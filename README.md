@@ -54,7 +54,12 @@ You can find a link to an interactive mock-up of the site on by downloading the 
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
 ## Process Map:
-![Process Map](https://sarahmurphy86.github.io/assets/process_map.)
+![Process Map](https://sarahmurphy86.github.io/assets/process_map.png)
+
+
+## User Journey:
+![User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
+
 
 ## User Testing:
 
@@ -69,13 +74,13 @@ You can find a link to an interactive mock-up of the site on by downloading the 
 
 Following our user testing, the following changes were made to the app:
 
-**Submit button made visible** - worked on CSS to ensure that the button was visible on the page without scrolling.
-**Colour overlay changed** - the colour overlay of the country was changed when it was clicked from green to orange.
-**Submit button** -  the user thought that the green overlay indicated that the map was selected, as such a ‘submit button’ didn’t need to be clicked
-**Correct country selected** - the user thought that the green overlay meant that they had selected the correct country.
-**Images of Yang** -  our character was added to the famous landmarks to ensure that the narrative flowed
-**Landmark pin** - work was done on this to ensure it was clear 
-**Voice over** - added to the app to indicate whether the user had guessed correctly 
+1. **Submit button made visible** - worked on CSS to ensure that the button was visible on the page without scrolling.
+2. **Colour overlay changed** - the colour overlay of the country was changed when it was clicked from green to orange.
+3. **Submit button** -  the user thought that the green overlay indicated that the map was selected, as such a ‘submit button’ didn’t need to be clicked
+4. **Correct country selected** - the user thought that the green overlay meant that they had selected the correct country.
+5. **Images of Yang** -  our character was added to the famous landmarks to ensure that the narrative flowed
+6. **Landmark pin** - work was done on this to ensure it was clear 
+7. **Voice over** - added to the app to indicate whether the user had guessed correctly 
 
 The users suggested the following improvements, if we had more time we would have liked to implement these:
 * All users liked the idea of “hotter” and “colder” clues dependent on your guess
