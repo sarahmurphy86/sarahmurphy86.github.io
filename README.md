@@ -1,7 +1,7 @@
 # “If the user can’t use it, it doesn’t work.” _Susan Dray_ 
 
 ---
-I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible to all.
+I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
 
 # The brief
 
