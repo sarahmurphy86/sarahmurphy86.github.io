@@ -41,32 +41,25 @@ What do our users need and what does success look like? This could be both funct
 
 ![User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
 
-#### Sketching
-
-A rough sketch of the homepage...
-
-![Sketching](https://sarahmurphy86.github.io/assets/JavaScript_project_sketch_landmark_view.jpg)
-
-
-#### Wireframes
-
-So the whole team knows what we are working towards...it is much easier to change a wireframe than your app!
-
-![Wireframe 2](https://sarahmurphy86.github.io/assets/wireframe_version_2.png)
-
-![Wireframe 3](https://sarahmurphy86.github.io/assets/wireframe_version_3.png)
-
-#### Prototype
-
-You can find a link to an interactive mock-up of the site on by downloading the HTML code below.
-
-[Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
-
-### Process Map:
+### Process map:
 What does the user flow look like when they interact with the app?
 
 ![Process Map](https://sarahmurphy86.github.io/assets/process_map.png)
 
+#### Sketches and wireframes
+
+Whether it is pen and paper or UXPin, we all needed a clear idea of what we were working towards...
+
+![Sketching](https://sarahmurphy86.github.io/assets/sketch_and_wireframe.png)
+
+
+#### Prototype
+
+After building an interactive mock-up of the site that we were all happy with, we started building our app
+
+You can take a look at the prototype by downloading the HTML code below.
+
+[Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
 ### User Testing:
 
@@ -81,12 +74,11 @@ What does the user flow look like when they interact with the app?
 
 Following our user testing, the following changes were made to the app:
 
-1. **Submit button made visible** - worked on CSS to ensure that the button was visible on the page without scrolling.
-2. **Colour overlay changed** - the colour overlay of the country was changed when it was clicked from green to orange.
-3. **Country selector** - the user thought that the green overlay meant that they had selected the correct country, we changed this to orange.
-5. **Images of character** -  our character was added to the famous landmarks to ensure that the narrative flowed
-6. **Landmark pin** - work was done on this to ensure the landmark pin clearly indicated the country
-7. **Voice over** - added to the app to indicate whether the user had guessed correctly 
+1. **Submit button made visible** - we worked on CSS to ensure that the submit button was visible on the page without scrolling.
+2. **Colour overlay changed** - the colour overlay used to indicate what country had been clicked was changed from green to orange.
+3. **Images of character** -  our character was added to the pictures of the famous landmarks to ensure that the narrative flowed
+4. **Landmark pin** - work was done on this to ensure the landmark pin clearly indicated the country
+5. **Voice over** - added to the app to indicate whether the user had guessed correctly 
 
 #### Design Improvements:
 The users suggested the following improvements, if we had more time we would have liked to implement these:
@@ -107,7 +99,7 @@ The users suggested the following improvements, if we had more time we would hav
 | Test site with Colour Oracle          | Ensure site provides a good experience if you do not have 100% colour vision                |
 
 ### Challenges
-1. Ensuring that the team kept the user at the heart of the design and build (not adding 'cool' features because we can)
+1. Ensuring that the team kept the user at the heart of the product (not adding 'cool' features because we can)
 2. Time constraints
 3. Adapting to working with a new team with different working styles
 
