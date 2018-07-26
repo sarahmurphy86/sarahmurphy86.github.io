@@ -58,7 +58,7 @@ You can take a look at the prototype by downloading the HTML code below.
 
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
-### User testing:
+#### User testing
 
 *   3 users
     - 10 year old male - student
@@ -67,7 +67,7 @@ You can take a look at the prototype by downloading the HTML code below.
 
 ![User testing image](https://sarahmurphy86.github.io/assets/user_testing_image.jpg)
 
-#### An iterative process
+#### An iterative process...
 
 Following our user testing, the following changes were made to the app:-
 
@@ -77,7 +77,7 @@ Following our user testing, the following changes were made to the app:-
 4. **Landmark pin** - work was done on this to ensure the landmark pin clearly indicated the country
 5. **Voice over** - added to the app to indicate whether the user had guessed correctly 
 
-#### Accessibility considerations that we implemented:
+#### Accessibility considerations that we implemented
 
 | Feature                               | Why                                                                                         | 
 |:--------------------------------------|:--------------------------------------------------------------------------------------------|
@@ -90,18 +90,18 @@ Following our user testing, the following changes were made to the app:-
 
 ***
 
-#### Design improvements:
+#### Design improvements
 The users suggested the following improvements, if we had more time we would have liked to implement these:
 * All users liked the idea of “hotter” and “colder” clues dependent on your country guess
 * All users liked the ideas of a “hints” button
 * Users would have like this to be a game
 
-### Challenges
+#### Challenges
 1. Ensuring that the team kept the user at the heart of the product (not adding 'cool' features because we can)
 2. Time constraints
 3. Adapting to working with a new team with different working styles
 
 
-## You can find a link to the app below:
+### You can find a link to the app below:
 [Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).
 
