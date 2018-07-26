@@ -32,6 +32,7 @@ What do our users need and what does success look like?
 
  * * *                                                            
 
+
 ## Design Methods:
 
 ### Sketching
@@ -51,6 +52,9 @@ What do our users need and what does success look like?
 You can find a link to an interactive mock-up of the site on by downloading the HTML code below.
 
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
+
+## Process Map:
+![Process Map](https://sarahmurphy86.github.io/assets/process_map.png)
 
 ## User Testing:
 
