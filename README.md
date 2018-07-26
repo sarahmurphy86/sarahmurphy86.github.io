@@ -14,10 +14,9 @@ The BBC are looking to improve their online offering of educational content by d
 1. We would like to improve children’s understanding of where the different countries are in the world and what continent they are in.
 2. We would like to increase children’s knowledge of human/man-made and natural/physical geography
 
-#### What process did we follow?
 ***
 
-### Discovery methods:
+### The approach...
 
 #### Proto-personas
 
@@ -35,8 +34,6 @@ What do our users need and what does success look like?
 | Primary school teacher     | Have an educational game that is free to use and and I can share with my class                              |My students can learn about geography and have fun doing it|
 
  * * *                                                            
-
-### Design methods:
 
 #### User action and system response
 
