@@ -14,17 +14,17 @@ The BBC are looking to improve their online offering of educational content by d
 1. We would like to improve children’s understanding of where the different countries are in the world and what continent they are in.
 2. We would like to increase children’s knowledge of human/man-made and natural/physical geography
 
-**What process did we follow to build this app?**
+#### What process did we follow to build this app?
 
-### Discovery methods
+### Discovery methods:
 
 #### Proto-personas
 
-What do our users want - Who are they, how do they behave and what are their goals?
+What do our users want - who are they, how do they behave and what are their goals?
 
-#### User Needs:
+#### User needs
 
-What do our users need and what does success look like? This could be both functional and emotional...
+What do our users need and what does success look like?
 
 | As a...                    | I want to...                                                                                                | So that ...                                               |
 |:---------------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
@@ -35,14 +35,14 @@ What do our users need and what does success look like? This could be both funct
 
  * * *                                                            
 
-### Design Methods:
+### Design methods:
 
 #### User action and system response
 
 ![User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
 
-### Process map:
-What does the user flow look like when they interact with the app?
+#### Process map
+What does the user flow look like when the user interacts with the app
 
 ![Process Map](https://sarahmurphy86.github.io/assets/process_map.png)
 
@@ -52,7 +52,6 @@ Whether it is pen and paper or UXPin, we all needed a clear idea of what we were
 
 ![Sketching](https://sarahmurphy86.github.io/assets/sketch_and_wireframe.png)
 
-
 #### Prototype
 
 After building an interactive mock-up of the site that we were all happy with, we started building our app
@@ -61,7 +60,7 @@ You can take a look at the prototype by downloading the HTML code below.
 
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
-### User Testing:
+### User testing:
 
 *   3 users
     - 10 year old male - student
@@ -70,9 +69,9 @@ You can take a look at the prototype by downloading the HTML code below.
 
 ![User testing image](https://sarahmurphy86.github.io/assets/user_testing_image.jpg)
 
-#### Design Changes:
+#### An iterative process
 
-Following our user testing, the following changes were made to the app:
+Following our user testing, the following changes were made to the app:-
 
 1. **Submit button made visible** - we worked on CSS to ensure that the submit button was visible on the page without scrolling.
 2. **Colour overlay changed** - the colour overlay used to indicate what country had been clicked was changed from green to orange.
@@ -80,14 +79,7 @@ Following our user testing, the following changes were made to the app:
 4. **Landmark pin** - work was done on this to ensure the landmark pin clearly indicated the country
 5. **Voice over** - added to the app to indicate whether the user had guessed correctly 
 
-#### Design Improvements:
-The users suggested the following improvements, if we had more time we would have liked to implement these:
-* All users liked the idea of “hotter” and “colder” clues dependent on your country guess
-* All users liked the ideas of a “hints” button
-* Users would have like this to be a game
-
-
-#### Accessibility considerations that were implemented:
+#### Accessibility considerations that we implemented:
 
 | Feature                               | Why                                                                                         | 
 |:--------------------------------------|:--------------------------------------------------------------------------------------------|
@@ -97,6 +89,14 @@ The users suggested the following improvements, if we had more time we would hav
 | Try to make colours dyslexia friendly | Most users prefer dark print on a pale background. Colour preferences vary                  |
 | Alt text for images                   | Helps screen readers                                                                        |
 | Test site with Colour Oracle          | Ensure site provides a good experience if you do not have 100% colour vision                |
+
+***
+
+#### Design improvements:
+The users suggested the following improvements, if we had more time we would have liked to implement these:
+* All users liked the idea of “hotter” and “colder” clues dependent on your country guess
+* All users liked the ideas of a “hints” button
+* Users would have like this to be a game
 
 ### Challenges
 1. Ensuring that the team kept the user at the heart of the product (not adding 'cool' features because we can)
