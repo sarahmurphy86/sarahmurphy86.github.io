@@ -35,6 +35,9 @@ What do our users need and what does success look like?
 
 ## Design Methods:
 
+### User Journey
+![User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
+
 ### Sketching
 
 ![Sketching](https://sarahmurphy86.github.io/assets/JavaScript_project_sketch_landmark_view.jpg)
@@ -55,10 +58,6 @@ You can find a link to an interactive mock-up of the site on by downloading the 
 
 ## Process Map:
 ![Process Map](https://sarahmurphy86.github.io/assets/process_map.png)
-
-
-## User Journey:
-![User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
 
 
 ## User Testing:
@@ -100,10 +99,10 @@ The users suggested the following improvements, if we had more time we would hav
 | Test site with Colour Oracle          | Ensure site provides a good experience if you do not have 100% colour vision                |
 
 
+## You can find a link to the app below:
+[Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).
 
-
-
-
+***
 ### Header 3
 
 ```js
