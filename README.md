@@ -81,6 +81,7 @@ Following our user testing, the following changes were made to the app:
 6. **Landmark pin** - work was done on this to ensure it was clear 
 7. **Voice over** - added to the app to indicate whether the user had guessed correctly 
 
+### Design Improvements:
 The users suggested the following improvements, if we had more time we would have liked to implement these:
 * All users liked the idea of “hotter” and “colder” clues dependent on your guess
 * All users liked the ideas of a “hints” button.
