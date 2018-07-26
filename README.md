@@ -53,6 +53,12 @@ You can find a link to an interactive mock-up of the site on by downloading the 
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
 ## User Testing:
+
+*   3 users
+    - 10 year old male - student
+    - 13 year old female - student
+    - 50 year old female - teacher and parent
+
 ![User testing image](https://sarahmurphy86.github.io/assets/user_testing_image.jpg)
 
 ### Design Changes:
