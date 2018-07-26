@@ -10,18 +10,21 @@ The BBC are looking to improve their online offering of educational content by d
 
 >We chose to design an app aimed at children 8 to 11 years old to help them recognise geographical points of interest. The user will be shown an image of a famous landmark, and be asked to click a map to show where in the world they think this famous landmark is located. The user will then find out if their guess was correct, and will be shown some interesting facts on the famous landmark and the country it is in. 
 
+## What problem are we trying to solve?
+1. We would like to improve children’s understanding of where the different countries are in the world and what continent they are in.
+2. We would like to increase children’s knowledge of human/man-made and natural/physical geography
 
-I would like to share the UX methods we used our project, and the accessibility considerations we made
+**What process did we follow to build this app?**
 
-## Discovery Methods
+### Discovery methods
 
-### Proto-personas
+#### Proto-personas
 
-Who are our users, how do they behave and what are their needs and goals?
+What do our users want - Who are they, how do they behave and what are their goals?
 
-### User Needs:
+#### User Needs:
 
-What do our users need and what does success look like?
+What do our users need and what does success look like? This could be both functional and emotional...
 
 | As a...                    | I want to...                                                                                                | So that ...                                               |
 |:---------------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
@@ -32,35 +35,40 @@ What do our users need and what does success look like?
 
  * * *                                                            
 
+### Design Methods:
 
-## Design Methods:
+#### User action and system response
 
-### User Journey
 ![User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
 
-### Sketching
+#### Sketching
+
+A rough sketch of the homepage...
 
 ![Sketching](https://sarahmurphy86.github.io/assets/JavaScript_project_sketch_landmark_view.jpg)
 
 
-### Wireframes
-![Wireframe 1](https://sarahmurphy86.github.io/assets/wireframe_version_1.png)
+#### Wireframes
+
+So the whole team knows what we are working towards...it is much easier to change a wireframe than your app!
 
 ![Wireframe 2](https://sarahmurphy86.github.io/assets/wireframe_version_2.png)
 
 ![Wireframe 3](https://sarahmurphy86.github.io/assets/wireframe_version_3.png)
 
-### Prototype
+#### Prototype
 
 You can find a link to an interactive mock-up of the site on by downloading the HTML code below.
 
 [Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
 
-## Process Map:
+### Process Map:
+What does the user flow look like when they interact with the app?
+
 ![Process Map](https://sarahmurphy86.github.io/assets/process_map.png)
 
 
-## User Testing:
+### User Testing:
 
 *   3 users
     - 10 year old male - student
@@ -69,26 +77,25 @@ You can find a link to an interactive mock-up of the site on by downloading the 
 
 ![User testing image](https://sarahmurphy86.github.io/assets/user_testing_image.jpg)
 
-### Design Changes:
+#### Design Changes:
 
 Following our user testing, the following changes were made to the app:
 
 1. **Submit button made visible** - worked on CSS to ensure that the button was visible on the page without scrolling.
 2. **Colour overlay changed** - the colour overlay of the country was changed when it was clicked from green to orange.
-3. **Submit button** -  the user thought that the green overlay indicated that the map was selected, as such a ‘submit button’ didn’t need to be clicked
-4. **Correct country selected** - the user thought that the green overlay meant that they had selected the correct country.
-5. **Images of Yang** -  our character was added to the famous landmarks to ensure that the narrative flowed
-6. **Landmark pin** - work was done on this to ensure it was clear 
+3. **Country selector** - the user thought that the green overlay meant that they had selected the correct country, we changed this to orange.
+5. **Images of character** -  our character was added to the famous landmarks to ensure that the narrative flowed
+6. **Landmark pin** - work was done on this to ensure the landmark pin clearly indicated the country
 7. **Voice over** - added to the app to indicate whether the user had guessed correctly 
 
-### Design Improvements:
+#### Design Improvements:
 The users suggested the following improvements, if we had more time we would have liked to implement these:
-* All users liked the idea of “hotter” and “colder” clues dependent on your guess
-* All users liked the ideas of a “hints” button.
+* All users liked the idea of “hotter” and “colder” clues dependent on your country guess
+* All users liked the ideas of a “hints” button
 * Users would have like this to be a game
 
 
-### Accessibility considerations that were implemented:
+#### Accessibility considerations that were implemented:
 
 | Feature                               | Why                                                                                         | 
 |:--------------------------------------|:--------------------------------------------------------------------------------------------|
@@ -99,111 +106,12 @@ The users suggested the following improvements, if we had more time we would hav
 | Alt text for images                   | Helps screen readers                                                                        |
 | Test site with Colour Oracle          | Ensure site provides a good experience if you do not have 100% colour vision                |
 
+### Challenges
+1. Ensuring that the team kept the user at the heart of the design and build (not adding 'cool' features because we can)
+2. Time constraints
+3. Adapting to working with a new team with different working styles
+
 
 ## You can find a link to the app below:
 [Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).
 
-***
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
