@@ -67,7 +67,33 @@ You can find a link to an interactive mock-up of the site on by downloading the 
 
 ### Design Changes:
 
-### Accessibility Considerations:
+Following our user testing, the following changes were made to the app:
+
+**Submit button made visible** - worked on CSS to ensure that the button was visible on the page without scrolling.
+**Colour overlay changed** - the colour overlay of the country was changed when it was clicked from green to orange.
+**Submit button** -  the user thought that the green overlay indicated that the map was selected, as such a ‘submit button’ didn’t need to be clicked
+**Correct country selected** - the user thought that the green overlay meant that they had selected the correct country.
+**Images of Yang** -  our character was added to the famous landmarks to ensure that the narrative flowed
+**Landmark pin** - work was done on this to ensure it was clear 
+**Voice over** - added to the app to indicate whether the user had guessed correctly 
+
+The users suggested the following improvements, if we had more time we would have liked to implement these:
+* All users liked the idea of “hotter” and “colder” clues dependent on your guess
+* All users liked the ideas of a “hints” button.
+* Users would have like this to be a game
+
+
+### Accessibility considerations that were implemented:
+
+| Feature                               | Why                                                                                         | 
+|:--------------------------------------|:--------------------------------------------------------------------------------------------|
+| !DOCTYPE HTML                         | Helps screenreaders                                                                         |
+| Font size set as a % or em            | Allows user to change font size to their liking                                             |
+| Font is Sans Serif                    | Recommended on British Dyslexia Association website (font used is Dosis child friendly too) |
+| Try to make colours dyslexia friendly | Most users prefer dark print on a pale background. Colour preferences vary                  |
+| Alt text for images                   | Helps screen readers                                                                        |
+| Test site with Colour Oracle          | Ensure site provides a good experience if you do not have 100% colour vision                |
+
 
 
 
