@@ -94,7 +94,7 @@ Following our user testing, the following changes were made to the app:-
 The users suggested the following improvements, if we had more time we would have liked to implement these:
 * All users liked the idea of “hotter” and “colder” clues dependent on your country guess
 * All users liked the ideas of a “hints” button
-* Users would have like this to be a game
+* Users would have liked this to be a game with a points system
 
 #### Challenges
 * Ensuring that the team kept the user at the heart of the product (not adding 'cool' features because we can)
