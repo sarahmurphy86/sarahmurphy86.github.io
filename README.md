@@ -14,7 +14,8 @@ The BBC are looking to improve their online offering of educational content by d
 1. We would like to improve children’s understanding of where the different countries are in the world and what continent they are in.
 2. We would like to increase children’s knowledge of human/man-made and natural/physical geography
 
-#### What process did we follow to build this app?
+#### What process did we follow?
+***
 
 ### Discovery methods:
 
