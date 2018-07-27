@@ -102,7 +102,7 @@ The users suggested the following improvements, if we had more time we would hav
 * Adapting to working with a new team with different working styles
 
 #### Key takeaway
-* Trying to design something simple is complex
+* Trying to design something simple and easy to use is difficult
 
 ### You can find a link to the app below:
 [Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).
