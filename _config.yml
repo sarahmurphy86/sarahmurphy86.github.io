@@ -1,1 +1,6 @@
-
+theme: jekyll-theme-cayman
+title: UX Portfolio
+description: Hello, I am Sarah and welcome to my portfolio. 
+logo: "assets/Test.png"
+email: sarah.graham86@gmail.com
+​highlighter: rouge
