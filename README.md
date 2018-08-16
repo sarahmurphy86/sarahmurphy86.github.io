@@ -2,7 +2,6 @@
 
 ---
 # About me
-Hi, I am Sarah and welcome to my UX portfolio.
 
 I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
 
