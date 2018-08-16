@@ -1,9 +1,12 @@
-# “If the user can’t use it, it doesn’t work.” _Susan Dray_ 
+>*“If the user can’t use it, it doesn’t work.”* _Susan Dray_ 
 
 ---
+# About me
+Hi, I am Sarah and welcome to my UX portfolio.
+
 I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
 
-# The brief
+# The BBC Project
 
 The BBC are looking to improve their online offering of educational content by developing some interactive apps that display information in a fun and interesting way. Working collaboratively in a team of four, your goal is to produce a full stack web application (vanilla JavaScript, Express and Mongo).
 
