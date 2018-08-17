@@ -2,17 +2,16 @@
 
 ---
 # About me
-<img src="https://sarahmurphy86.github.io/assets/profile_pic.png" alt="Profile Picture" width="50" height="76" align="left"> I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
+<img src="https://sarahmurphy86.github.io/assets/profile_pic.png" alt="Cartoon Profile Picture of Sarah" width="14%" height="21%" align="left"> I am passionate about technology and human behaviour, and how they interact with one another. With a background in Psychology and experience in a wide range of customer focussed roles, I understand the importance of putting the user at the heart of what you are doing. 
 
 Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@gmail.com) or through [LinkedIn](http://www.linkedin.com/in/sarah-murphy-173966120)
 
 # My work
-
-Image here: As a long time user of the  Edinburgh Fringe Festival website, I have always struggled to find shows by time. Therefore, I thought this would be a great opportunity to address the problem with a design solution. 
+<img src="https://sarahmurphy86.github.io/assets/edinburgh_fringe_festival_image.png" alt="Text on image reads Portfolio- Edinburgh Fringe Review" width="20%" height="40%" align="left"> As a long time user of the  Edinburgh Fringe Festival website, I have always struggled to find shows by time. Therefore, I thought this would be a great opportunity to address the problem with a design solution. 
 
 Download my slides take a look at my work ADD SLIDES HERE
 
-BBC image here: As part of my final project at CodeClan, I was tasked to to build an interactive app for the BBC.
+<img src="https://sarahmurphy86.github.io/assets/bbc_project_image.png" alt="Text on image reads Portfolio- The BBC Project" width="20%" height="40%" align="left"> As part of my final project at [CodeClan] (https://codeclan.com), I was tasked to to build an interactive app for the BBC.
 
 Scroll down the page to take a look at how I went about doing this. 
 
