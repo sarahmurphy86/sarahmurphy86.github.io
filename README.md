@@ -39,7 +39,8 @@ I decided to design a number of proto-personas to answer the following questions
 
 **Example: Scott, 10, primary school pupil**
 
-<img src="https://sarahmurphy86.github.io/assets/scott_proto_persona.png" alt="Cartoon image of a boy standing front of some goalposts with a football" width="14%" height="21%" align="left"> **Behaviours:** Likes to play football with his friends and gets bored easily in class
+<img src="https://sarahmurphy86.github.io/assets/scott_proto_persona.png" alt="Cartoon image of a boy standing front of some goalposts with a football" width="14%" height="21%" align="left"> **Behaviours:** Likes to play football with his friends and gets bored easily in class.
+
 **Needs and goals:** Scott wants to get better at geography so he can pass the end of year test
 
 
