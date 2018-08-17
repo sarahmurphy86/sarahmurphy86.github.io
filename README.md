@@ -59,11 +59,13 @@ I then documented the user needs to understand what success looked like based on
 
 To validate the proto-personas, I asked some real life children (my niece and nephews) what was important to them....
 
+The resounding response was that it needed to be *add image here**
+
  * * *                                                            
 
 #### The user journey
 
-Now that I had an idea of who are users are and what their needs were, I wanted to design a simple user interface. However, I needed to understand their journey before I could do this. I worked out what the user (Scott, aged 10) would be doing on the app and how the system would respond.
+Once I had a clear idea of who the users were and what I needed to do to meet their needs, I wanted to design a simple user interface.  To do this, I neeed to work out how they would interact with the app and how the system would respond. To do this I designed a simple user journey based on my proto-persona Scott.
 
 ![User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
 
