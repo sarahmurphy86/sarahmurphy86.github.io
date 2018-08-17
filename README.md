@@ -31,8 +31,19 @@ The BBC were looking to improve their online offering of educational content by 
 ### My approach...
 
 #### Proto-personas
+I decided to design a number of proto-personas to answer the following questions:
+1. Who are our users?
+2. What do they want?
+3. How do they behave?
+4. What are their goals?
 
-What do our users want - who are they, how do they behave and what are their goals?
+##### Example proto-persona
+
+<img src="https://sarahmurphy86.github.io/assets/scott_proto_persona.png" alt="Cartoon image of a boy standing front of some goalposts with a football" width="14%" height="21%" align="left"> Scott, 10, primary school pupil
+**Behaviours:** Likes to play football with his friends and gets bored easily in class
+**Needs and goals:** Scott wants to get better at geography so he can pass the end of year test
+
+
 
 #### User needs
 
@@ -40,8 +51,8 @@ What do our users need and what does success look like?
 
 | As a...                    | I want to...                                                                                                | So that ...                                               |
 |:---------------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
-| Eight  year old boy        | Learn about where the countries of the world                                                                |I can improve on my geography                              | 
-| Ten year old girl          | Play a cool game                                                                                            |I can have a competition with my friends                   |         
+| Ten year old boy           | Learn about where the countries of the world                                                                |I can improve on my geography and pass he end of year test | 
+| Eight year old girl        | Play a cool game                                                                                            |I can have a competition with my friends                   |         
 | Person who is colourblind  | Be able to interact with the app easily, and not need to rely on colours alone to navigate through the site |I can join in the fun too                                  |
 | Primary school teacher     | Have an educational game that is free to use and and I can share with my class                              |My students can learn about geography and have fun doing it|
 
