@@ -65,28 +65,28 @@ The resounding response was that it needed to be *add image here**
 
 #### The user journey
 
-Once I had a clear idea of who the users were and what I needed to do to meet their needs, I wanted to design a simple user interface.  To do this, I neeed to work out how they would interact with the app and how the system would respond. To do this I designed a simple user journey based on my proto-persona Scott.
+Once I had a clear idea of who the users were and what I needed to do to meet their needs, I wanted to design a simple user interface.  First of all, I neeed to work out how the users would interact with the app and how the system would respond. To do this, I designed a simple user journey based on my proto-persona Scott.
 
 ![Diagram of the User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
 
 #### Process map
-What does the user flow look like when the user interacts with the app
+The next step was to consider all the steps the user takes when interacting with the app and what decisions they need to make along the way. I believed that visually describing the user flow was important for the team, as it ensured that we all understood the series of events that would lead up to the end result.
 
 ![Process Map](https://sarahmurphy86.github.io/assets/process_map.png)
 
-#### Sketches and wireframes
+#### Interface sketches and wireframes
 
-Whether it is pen and paper or UXPin, we all needed a clear idea of what we were working towards...
+It was then time to get the pen and paper out, sketching a low-fidelity user interface. After some feedback from the team, I made some changes to the design and then moved onto UXPin to produce some wireframes.
 
 ![Sketching](https://sarahmurphy86.github.io/assets/sketch_and_wireframe.png)
 
 #### Prototype
 
-After building an interactive mock-up of the site that we were all happy with, we started building our app.
+I built an interactive mock-up of the site, to illustrate the two views we needed to build and check the team where happy with the proposed navigation.
 
-You can take a look at the prototype by downloading the HTML code below.
+You can take a look at the prototype by clicking on the link below.
 
-[Link to the HTML prototype](https://github.com/sarahmurphy86/JavaScript_group_project_ux/tree/master/JavaScript_protect_protype_version%200.1)
+[Link to the HTML prototype](https://preview.uxpin.com/18620110def9cd42c43a7f5650fa077be6aa4d48#/pages//simulate/no-panels?mode=i)
 
 #### User testing
 
