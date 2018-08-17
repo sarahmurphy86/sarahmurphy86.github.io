@@ -67,7 +67,7 @@ The resounding response was that it needed to be *add image here**
 
 Once I had a clear idea of who the users were and what I needed to do to meet their needs, I wanted to design a simple user interface.  To do this, I neeed to work out how they would interact with the app and how the system would respond. To do this I designed a simple user journey based on my proto-persona Scott.
 
-![Diagram of the User Journey]()
+![Diagram of the User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
 
 #### Process map
 What does the user flow look like when the user interacts with the app
