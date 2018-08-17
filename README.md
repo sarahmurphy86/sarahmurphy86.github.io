@@ -2,8 +2,8 @@
 
 ---
 # About me
-
-![Profile Picture](https://sarahmurphy86.github.io/assets/profile_pic.png)I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
+<img src="https://sarahmurphy86.github.io/assets/profile_pic.png" alt="Profile Picture" width="37" height="52" align="left"> <p>
+I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.</p>
 
 # The BBC Project
 
