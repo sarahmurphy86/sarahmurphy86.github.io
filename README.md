@@ -9,26 +9,26 @@ Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@g
 # My work
 <img src="https://sarahmurphy86.github.io/assets/edinburgh_fringe_festival_image.png" alt="Text on image reads Portfolio- Edinburgh Fringe Review" width="20%" height="40%" align="left"> As a long time user of the  Edinburgh Fringe Festival website, I have always struggled to find shows by time. Therefore, I thought this would be a great opportunity to address the problem with a design solution. 
 
-Download my slides take a look at my work ADD SLIDES HERE
+Take a look at my work by downloading my slides *ADD SLIDES HERE ONCE COMPLETE*
 
 <img src="https://sarahmurphy86.github.io/assets/bbc_project_image.png" alt="Text on image reads Portfolio- The BBC Project" width="20%" height="40%" align="left"> As part of my final project at [CodeClan](https://codeclan.com), I was tasked to to build an interactive educational app for the BBC.
 
 Scroll down the page to take a look at how I went about doing this. 
 
-# The BBC Project
+# The BBC project
 
-The BBC are looking to improve their online offering of educational content by developing some interactive apps that display information in a fun and interesting way. Working collaboratively in a team of four, your goal is to produce a full stack web application (vanilla JavaScript, Express and Mongo).
+The BBC were looking to improve their online offering of educational content by developing some interactive apps that display information in a fun and interesting way. Working collaboratively in a team of four, my goal was to produce a full stack web application (vanilla JavaScript, Express and Mongo).
 
 
 >We chose to design an app aimed at children 8 to 11 years old to help them recognise geographical points of interest. The user will be shown an image of a famous landmark, and be asked to click a map to show where in the world they think this famous landmark is located. The user will then find out if their guess was correct, and will be shown some interesting facts on the famous landmark and the country it is in. 
 
-## What problem are we trying to solve?
-1. The BBC believe that children We would like to improve children’s understanding of where the different countries are in the world and what continent they are in
-2. We would like to increase children’s knowledge of human/man-made and natural/physical geography
+## What problem was I trying to solve?
+1. The BBC believe that children do not understand where the different countries are in the world, or what continent they are located in.
+2. The BBC believe that children have little knowledge of human/man-made and natural/physical geography.
 
 ***
 
-### Our approach...
+### My approach...
 
 #### Proto-personas
 
