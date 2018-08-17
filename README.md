@@ -1,4 +1,4 @@
-<blockquote>“If the user can’t use it, it doesn’t work.” _Susan Dray_/blockquote>
+<blockquote>“If the user can’t use it, it doesn’t work.” _Susan Dray_ </blockquote>
 
 ---
 # About me
