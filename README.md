@@ -3,7 +3,7 @@
 ---
 # About me
 
-I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
+![Profile Picture](https://sarahmurphy86.github.io/assets/profile_pic.png)I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
 
 # The BBC Project
 
@@ -13,7 +13,7 @@ The BBC are looking to improve their online offering of educational content by d
 >We chose to design an app aimed at children 8 to 11 years old to help them recognise geographical points of interest. The user will be shown an image of a famous landmark, and be asked to click a map to show where in the world they think this famous landmark is located. The user will then find out if their guess was correct, and will be shown some interesting facts on the famous landmark and the country it is in. 
 
 ## What problem are we trying to solve?
-1. We would like to improve children’s understanding of where the different countries are in the world and what continent they are in
+1. The BBC believe that children We would like to improve children’s understanding of where the different countries are in the world and what continent they are in
 2. We would like to increase children’s knowledge of human/man-made and natural/physical geography
 
 ***
