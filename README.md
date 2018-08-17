@@ -2,7 +2,7 @@
 
 ---
 # About me
-I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
+<img src="https://sarahmurphy86.github.io/assets/profile_pic.png" alt="Profile Picture" width="48" height="70" align="left"> I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
 
 Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@gmail.com) or through [LinkedIn](http://www.linkedin.com/in/sarah-murphy-173966120)
 
