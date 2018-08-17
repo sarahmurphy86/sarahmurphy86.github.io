@@ -5,6 +5,7 @@
 <img src="https://sarahmurphy86.github.io/assets/profile_pic.png" alt="Cartoon Profile Picture of Sarah" width="14%" height="21%" align="left"> I am passionate about technology and human behaviour, and how they interact with one another. With a background in Psychology and experience in a wide range of customer focussed roles, I understand the importance of putting the user at the heart of what you are doing. 
 
 Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@gmail.com) or through [LinkedIn](http://www.linkedin.com/in/sarah-murphy-173966120)
+* * *
 
 # My work
 <img src="https://sarahmurphy86.github.io/assets/edinburgh_fringe_festival_image.png" alt="Text on image reads Portfolio- Edinburgh Fringe Review" width="20%" height="40%" align="left"> As a long time user of the  Edinburgh Fringe Festival website, I have always struggled to find shows by time. Therefore, I thought this would be a great opportunity to address the problem with a design solution. 
@@ -14,6 +15,7 @@ Take a look at my work by downloading my slides *ADD SLIDES HERE ONCE COMPLETE*
 <img src="https://sarahmurphy86.github.io/assets/bbc_project_image.png" alt="Text on image reads Portfolio- The BBC Project" width="20%" height="40%" align="left"> As part of my final project at [CodeClan](https://codeclan.com), I was tasked to to build an interactive educational app for the BBC.
 
 Scroll down the page to take a look at how I went about doing this. 
+* * *
 
 # The BBC project
 
@@ -26,7 +28,6 @@ The BBC were looking to improve their online offering of educational content by 
 1. The BBC believe that children do not understand where the different countries are in the world, or what continent they are located in.
 2. The BBC believe that children have little knowledge of human/man-made and natural/physical geography.
 
-***
 
 ### My approach...
 
@@ -47,7 +48,7 @@ I decided to design a number of proto-personas to answer the following questions
 
 #### User needs
 
-What do our users need and what does success look like?
+I then documented the user needs to understand what success looked like based on the proto-personas.
 
 | As a...                    | I want to...                                                                                                | So that ...                                               |
 |:---------------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
@@ -56,9 +57,13 @@ What do our users need and what does success look like?
 | Person who is colourblind  | Be able to interact with the app easily, and not need to rely on colours alone to navigate through the site |I can join in the fun too                                  |
 | Primary school teacher     | Have an educational game that is free to use and and I can share with my class                              |My students can learn about geography and have fun doing it|
 
+To validate the proto-personas, I asked some real life children (my niece and nephews) what was important to them....
+
  * * *                                                            
 
-#### User action and system response
+#### The user journey
+
+Now that I had an idea of who are users are and what their needs were, I wanted to design a simple user interface. However, I needed to understand their journey before I could do this. I worked out what the user (Scott, aged 10) would be doing on the app and how the system would respond.
 
 ![User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
 
