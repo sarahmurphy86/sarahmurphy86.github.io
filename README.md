@@ -97,7 +97,9 @@ You can take a look at the prototype by clicking on the link below.
 Once we had built a functional working app, this seemed like a great opportunity to get some potential users to try it out and give us some feedback. 
 
 
-<img src="https://sarahmurphy86.github.io/assets/user_testing_image.jpg" alt="Photograph of two users testing the application" width="50%" height="70%" align="left"> Based on my proto-personas, I recruited three participants to test out our app. 
+<img src="https://sarahmurphy86.github.io/assets/user_testing_image.jpg" alt="Photograph of two users testing the application" width="40%" height="60%" align="left"> 
+
+Based on my proto-personas, I recruited three participants to test out our app. 
 
 * 10 year old male - student
 * 13 year old female - student
