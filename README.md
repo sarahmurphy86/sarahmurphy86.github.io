@@ -2,7 +2,7 @@
 
 ---
 # About me
-<img src="https://sarahmurphy86.github.io/assets/profile_pic.png" alt="Cartoon Profile Picture of Sarah" width="14%" height="21%" align="left"> I am passionate about technology and human behaviour, and how they interact with one another. With a background in Psychology and experience in a wide range of customer focussed roles, I understand the importance of putting the user at the heart of what you are doing. 
+<img src="https://sarahmurphy86.github.io/assets/profile_pic.png" alt="Cartoon Profile Picture of Sarah" width="14%" height="21%" align="left"> I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
 
 Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@gmail.com) or through [LinkedIn](http://www.linkedin.com/in/sarah-murphy-173966120)
 * * *
@@ -79,13 +79,13 @@ I then needed to consider all the steps the user takes when interacting with the
 
 #### Interface sketches and wireframes
 
-It was then time to get the pen and paper out, sketching a low-fidelity user interface. After some feedback from the team, I made some changes to the design and then moved onto UXPin to produce some wireframes.
+It was then time to get the pen and paper out, sketching a low-fidelity user interface. After presenting these to the team for some initial feedback (e.g.centering the submit button), I then moved onto UXPin to produce some wireframes - you can see my iterative process below.
 
 ![Sketching](https://sarahmurphy86.github.io/assets/sketch_and_wireframe.png)
 
 #### Prototype
 
-I built an interactive mock-up of the site, to illustrate the two views we needed to build and check the team where happy with the proposed navigation.
+My next step was to build an interactive mock-up of the site, in order to experience what it would 'feel' like from a user perspective navigating through the app. After presenting this to my colleagues, we were all clear about how we wanted the app to look, feel and function before we started work building it.
 
 You can take a look at the prototype by clicking on the link below.
 
@@ -93,12 +93,15 @@ You can take a look at the prototype by clicking on the link below.
 
 #### User testing
 
-*   3 users
-    - 10 year old male - student
-    - 13 year old female - student
-    - 50 year old female - teacher and parent
+Once we had built a functional working app, this seemed like a great opportunity to get some potential users to try it out and give us some feedback. 
 
-![User testing image](https://sarahmurphy86.github.io/assets/user_testing_image.jpg)
+
+<img src="https://sarahmurphy86.github.io/assets/user_testing_image.jpg" alt="Photograph of two users testing the application" width="50%" height="70%" align="left"> Based on my proto-personas, I recruited three participants to test out our app. 
+
+* 10 year old male - student
+* 13 year old female - student
+* 50 year old female - teacher and parent
+
 
 #### An iterative process...
 
