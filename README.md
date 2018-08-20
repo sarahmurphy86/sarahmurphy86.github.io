@@ -15,7 +15,8 @@ Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@g
 
 <img src="https://sarahmurphy86.github.io/assets/bbc_project_image.png" alt="Text on image reads Portfolio- The BBC Project" width="30%" height="50%" align="left"> As part of my final project at <a href="https://codeclan.com" target="_blank"> CodeClan</a>, I was tasked to to build an interactive educational app for the BBC.
 
-Scroll down the page to take a look at how I went about doing this. 
+Scroll down the page to take a look at how I went about doing this.
+<br/>
 * * *
 
 # The BBC project
@@ -102,6 +103,7 @@ Once we had built a functional app, this seemed like a great opportunity to get 
 <br/>
 <br/>
 <br/>
+<br/>
 By conducting the user testing, I wanted to find out:
 * How the participants interacted with the app e.g did they understand the instructions and could they work out how to select a country on the map
 * If they found the app fun to use?
@@ -147,6 +149,6 @@ As with any project, there were challenges along the way such as:
 
 ### Want to take a look at the app?
 You can find a link to the app on my GitHub account below. <br/>
-[Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).
-<br/>Once you have downloaded the code to your local repository the instructions on how to install and run the app can be found on the README.md file.
+<a href="https://github.com/sarahmurphy86/JSProject-WhereInTheWorld" target="_blank">Link to the JavaScript app</a>
+<br/>Once you have downloaded the code to your local repository, the README.md file explain how to install and run the app.
 
