@@ -127,7 +127,7 @@ My colleagues and I decided to make the following changes:
 
 Designing an accessible app is something that is very important to me, and I wanted to ensure that the design choices we made were considerate of user needs. We made the app inclusive by:
 
-1. Making the app accessible to people using assistive technologies such as screen readers, by ensuring the !DOCTYPE html was used in the HTML file and alt-text was added when we used images.
+1. Making the app accessible to people using assistive technologies such as screen readers, by ensuring the <!DOCTYPE html> declaration was used in the HTML file and the alt-text attribute was added to or image tags.
 2. Used the <a href="https://www.bdadyslexia.org.uk/" target="_blank">British Dyslexia Association website</a> to research how to make the app dyslexia friendly. Their recommendation was to use a sans serif font, and to use dark print on a pale background which formed the basis for our design.
 3. One of our user needs was to “be able to interact with the app easily, and not need to rely on colours alone to navigate through the site". We designed the app with this in mind, but I also tested the app using a site called <a href="http://www.colororacle.org/" target="_blank">Colour Oracle</a>. This allowed me to check what our app looks if you don’t have 100% colour vision and gave me reassurance that you can interact with it easily without relying on colour.
 
