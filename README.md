@@ -139,7 +139,7 @@ After the user testing, I asked participants how I could improve the app…they 
 
 ### Challenges
 As with any project, there were challenges along the way...
-* Ensuring that the team kept the user at the heart of the product  - not adding 'cool' features because we can
+* Ensuring that the team kept the user at the heart of the product  - not adding 'cool' features because we could
 * Time constraints - we only had five days to design and build the application
 * Adapting to working with a new team with different working styles 
 
