@@ -5,7 +5,7 @@
 <img src="https://sarahmurphy86.github.io/assets/profile_pic.png" alt="Cartoon Profile Picture of Sarah" width="14%" height="21%" align="left">
 I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
 
-If you like what you see, please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@gmail.com) or through <a href="http://www.linkedin.com/in/sarah-murphy-173966120" target="_blank">LinkedIn</a>
+Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@gmail.com) or through <a href="http://www.linkedin.com/in/sarah-murphy-173966120" target="_blank">LinkedIn</a>
 * * *
 
 # My work
@@ -101,7 +101,9 @@ I recruited three participants to test out our app based on my proto-personas.
 <br/>
 <br/>
 <br/>
+<br/>
 The purpose of the user testing was to find out:
+
 1. How the participants interacted with the app e.g did they understand the instructions and could they work out how to select a country on the map
 2. Did they find the app fun to use?
 3. Did they learn where the countries are in the world, or could they remember any of the facts about the countries?
