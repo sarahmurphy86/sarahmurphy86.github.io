@@ -33,9 +33,9 @@ The BBC were looking to improve their online offering of educational content by 
 2. The BBC believe that children have little knowledge of human/man-made and natural/physical geography.
 
 
-### My approach...
+## My approach...
 
-#### Proto-personas
+### Proto-personas
 I decided to design a number of proto-personas to answer the following questions:
 
 * Who are our users?
@@ -47,7 +47,7 @@ I decided to design a number of proto-personas to answer the following questions
 **Needs and goals:** Scott wants to get better at geography so he can pass the end of year test
 <br/>
 <br/>
-#### User needs
+### User needs
 
 I then documented the user needs to understand what success looked like based on the proto-personas.
 
@@ -60,7 +60,7 @@ I then documented the user needs to understand what success looked like based on
 
  * * *                                                            
 
-#### The user journey
+### The user journey
 
 Once I had a clear idea of who the users were and how I would meet their needs, I wanted to create a simple user interface. 
 
@@ -68,19 +68,19 @@ First of all, I need to work out how the users would interact with the app and h
 
 ![Diagram of the User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
 
-#### Process map
+### Process map
 
 I then needed to consider all the steps the user takes when interacting with the app and what decisions they need to make along the way. I believe that visually describing the user flow was important for the team, as it ensured that we all understood the series of events that would lead up to the end result.
 
 ![Process Map](https://sarahmurphy86.github.io/assets/process_map.png)
 
-#### Interface sketches and wireframes
+### Interface sketches and wireframes
 
 It was then time to get the pen and paper out, sketching a low-fidelity user interface. Following some initial feedback from the team (e.g. centering the submit button), I moved onto UXPin to produce some wireframes - you can see my iterative process below.
 
 ![Sketching](https://sarahmurphy86.github.io/assets/sketch_and_wireframe.png)
 
-#### Prototype
+### Prototype
 
 My next step was to build an interactive mock-up of the site, so that I could bring the user interface to life. This meant my colleagues and I were able to experience what it would ‘feel’ like to navigate through the app, what the end product could look like and how the functionality should work before we began building it.
 
@@ -88,7 +88,7 @@ You can take a look at the prototype by clicking on the link below.
 
 <a href="https://preview.uxpin.com/18620110def9cd42c43a7f5650fa077be6aa4d48#/pages//simulate/no-panels?mode=i" target="_blank"> Link to my HTML prototype</a>
 
-#### User testing
+### User testing
 
 Once we had built a functional app, this seemed like a great opportunity to get some potential users to try it out and give us some feedback. I recruited three participants to test out our app based on my proto-personas.
 
@@ -113,7 +113,7 @@ By conducting the user testing, I wanted to find out:
 * What parts of the app did they like or dislike
 * What could I do to improve their experience with the app?
 
-#### An iterative process...
+### An iterative process...
 
 The user testing provided some great ideas for how we could go about making improvements to the app.
 
@@ -125,7 +125,7 @@ With my colleagues we decided to:
 4. **Landmark pin** - participants found it difficult to tell which country the pin landed on, so we worked on the design of the pin to ensure it clearly indicated the country
 5. **Voice over** - participants liked the voice-over that had been added to indicate whether they had guessed correctly, so we agreed to keep this feature 
 
-#### Making the app inclusive
+### Making the app inclusive
 
 Designing an accessible app is something that is very important to me, and I wanted to ensure that the design choices we made were considerate of user needs. We made the app inclusive by:
 
@@ -134,19 +134,19 @@ Designing an accessible app is something that is very important to me, and I wan
 3. One of our user needs was to “be able to interact with the app easily, and not need to rely on colours alone to navigate through the site". We designed the app with this in mind, but I also tested the app using a site called <a href="http://www.colororacle.org/" target="_blank">Colour Oracle</a>. This allowed me to check what our app looks if you don’t have 100% colour vision and gave me reassurance that you can interact with it easily without relying in colour.
 
 
-#### Design improvements
+### Design improvements
 After the user testing, I asked participants how I could improve the app…they had some great ideas, and if we had more time for this project I would have liked to implement these.
 * All participants liked the idea of “hotter” and “colder” clues dependent on your country guess
 * All participants liked the ideas of a “hints” button 
 * Participants would have liked this to be a game with a points system
 
-#### Challenges
+### Challenges
 As with any project, there were challenges along the way such as:
 * Ensuring that the team kept the user at the heart of the product  - not adding 'cool' features because we can
 * Time constraints - we only had five days to design and build the application
 * Adapting to working with a new team with different working styles 
 
-#### Key takeaway
+### Key takeaway
 *  Designing and building something that is simple and easy to use from the user perspective is difficult.
 
 ### Want to take a look at the app?
