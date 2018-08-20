@@ -82,7 +82,7 @@ It was then time to get the pen and paper out, sketching a low-fidelity user int
 
 ### Prototype
 
-My next step was to build an interactive mock-up of the site, so that I could bring the user interface to life. This meant my colleagues and I were able to experience what it would ‘feel’ like to navigate through the app, what the end product could look like and how the functionality should work before we began building it.
+My next step was to build an interactive mock-up of the app, so that I could bring the user interface to life. This meant my colleagues and I were able to experience how it ‘felt’ to navigate through the app, how it should work, and what the end product could look like before we began building it.
 
 You can take a look at the prototype by clicking on the link below.
 
@@ -113,21 +113,21 @@ Once we had built a functional app, this seemed like a great opportunity to get 
 
 ### An iterative process...
 
-The user testing highlighted some difficulties the participants had when using the app, and gave us some ideas on how we could improve the user experience.
+The user testing highlighted some difficulties the participants had when using the app, and gave me some ideas on how we could improve their experience.
 
 My colleagues and I decided to make the following changes:
 
-1. **Ensure the submit button was visible** - participants did not realise they needed to scroll down the page to click the submit button,  so we worked on CSS to reformat the layout of the page to ensure the submit button was visible without the need to scroll
-2. **Colour overlay changed** - participants thought that the country colour overlay (to indicate a country had been selected) indicated whether their guess was correct or not, so we changed the colour scheme from green to orange to reduce confusion
-3. **Images of character** -  it became clear that the narrative behind of our app didn’t really flow e.g. our character is introduced in the instructions but doesn’t appear again, so we added the character to the pictures of the famous landmarks to ensure continuity of our story
-4. **Landmark pin** - participants found it difficult to tell which country the pin landed on, so we worked on the design of the pin to ensure it clearly indicated the country
-5. **Voice over** - participants liked the voice-over that had been added to indicate whether they had guessed correctly, so we agreed to keep this feature 
+1. **Ensure the submit button was visible** - participants did not realise they needed to scroll down the page to click the submit button,  so we worked on CSS to reformat the layout of the page to ensure the submit button was visible without the need to scroll.
+2. **Colour overlay changed** - participants thought that the country colour overlay (to indicate a country had been selected) indicated whether their guess was correct or not, so we changed the colour scheme from green to orange to reduce confusion.
+3. **Images of character** -  it became clear that the narrative behind of our app didn’t flow e.g. our character was introduced in the instructions but didn't appear again, so we added the character to the pictures of the famous landmarks to ensure continuity of our story.
+4. **Landmark pin** - participants found it difficult to tell which country the pin landed on, so we worked on the design of the pin to ensure it clearly indicated the country.
+5. **Voice over** - participants liked the voice-over that had been added to indicate whether they had guessed correctly, so we agreed to keep this feature. 
 
 ### Making the app inclusive
 
-Designing an accessible app is something that is very important to me, and I wanted to ensure that the design choices we made were considerate of user needs. We made the app inclusive by:
+Designing an accessible app is something that is very important to me, and I wanted to ensure that the design choices we made were considerate of users needs by:
 
-1. Making the app accessible to people using assistive technologies such as screen readers, by ensuring the <!DOCTYPE html> declaration was used in the HTML file and the alt-text attribute was added to or image tags.
+1. Making the app accessible to people using assistive technologies such as screen readers, by ensuring the <!DOCTYPE html> declaration was used in the HTML file and the alt-text attribute was added to our image tags.
 2. Used the <a href="https://www.bdadyslexia.org.uk/" target="_blank">British Dyslexia Association website</a> to research how to make the app dyslexia friendly. Their recommendation was to use a sans serif font, and to use dark print on a pale background which formed the basis for our design.
 3. One of our user needs was to “be able to interact with the app easily, and not need to rely on colours alone to navigate through the site". We designed the app with this in mind, but I also tested the app using a site called <a href="http://www.colororacle.org/" target="_blank">Colour Oracle</a>. This allowed me to check what our app looks if you don’t have 100% colour vision and gave me reassurance that you can interact with it easily without relying on colour.
 
@@ -138,7 +138,7 @@ After the user testing, I asked participants how I could improve the app…they 
 * Participants would have liked this to be a game with a points system
 
 ### Challenges
-As with any project, there were challenges along the way such as:
+As with any project, there were challenges along the way...
 * Ensuring that the team kept the user at the heart of the product  - not adding 'cool' features because we can
 * Time constraints - we only had five days to design and build the application
 * Adapting to working with a new team with different working styles 
