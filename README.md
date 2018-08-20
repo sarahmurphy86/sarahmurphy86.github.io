@@ -147,6 +147,7 @@ As with any project, there were challenges along the way such as:
 *  Designing and building something that is simple and easy to use from the users perspective is difficult.
 
 ### Want to take a look at the app?
-You can find a link to the app on my GitHub account below.  Once you have downloaded the code to your local repository, the README.md file explain how to install and run the app.<br/>
+You can find a link to the app on my GitHub account below.  Once you have downloaded the code to your local repository, the README.md file explain how to install and run the app.
+<br/>
 <a href="https://github.com/sarahmurphy86/JSProject-WhereInTheWorld" target="_blank">Link to the JavaScript app</a>
 
