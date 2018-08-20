@@ -44,7 +44,6 @@ I decided to design a number of proto-personas to answer the following questions
 **Needs and goals:** Scott wants to get better at geography so he can pass the end of year test
 <br/>
 <br/>
-<br/>
 #### User needs
 
 I then documented the user needs to understand what success looked like based on the proto-personas.
