@@ -11,6 +11,8 @@ Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@g
 # My work
 <img src="https://sarahmurphy86.github.io/assets/edinburgh_fringe_festival_image.png" alt="Text on image reads Portfolio- Edinburgh Fringe Review" width="30%" height="50%" align="left"> As a long time user of the  Edinburgh Fringe Festival website, I have always struggled to find shows by time. Therefore, I thought this would be a great opportunity to address the problem with a design solution. Take a look at my work by clicking the link below.
 
+<a href="https://docs.google.com/presentation/d/10Pxz8xr1g2LSgOuYFKRa_3YhODiO78Ybx4sgXYjqlQs/edit?usp=sharing" target="_blank"> Edinburgh Fringe Festival Review</a>
+
 <img src="https://sarahmurphy86.github.io/assets/bbc_project_image.png" alt="Text on image reads Portfolio- The BBC Project" width="30%" height="50%" align="left"> As part of my final project at <a href="https://codeclan.com" target="_blank"> CodeClan</a>, I was tasked to to build an interactive educational app for the BBC.
 
 Scroll down the page to take a look at how I went about doing this. 
@@ -37,6 +39,8 @@ I decided to design a number of proto-personas to answer the following questions
 * Who are our users?
 * How do they behave?
 * What do they want?
+
+
 
 **Example:** Scott, aged 10, primary school pupil
 
