@@ -98,14 +98,13 @@ Once we had built a functional app, this seemed like a great opportunity to get 
 
 * 10 year old male - student
 * 13 year old female - student
-* 50 year old female - teacher and parent
+* 50 year old female - teacher and parent<br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>By conducting the user testing, I wanted to find out:
+By conducting the user testing, I wanted to find out:
 * How the participants interacted with the app e.g did they understand the instructions and could they work out how to select a country on the map?
 * If they found the app fun to use?
 * If they learnt anything by using the app e.g where the countries are in the world, or if they could remember any of the facts about the countries?
