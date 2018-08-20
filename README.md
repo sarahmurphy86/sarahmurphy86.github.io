@@ -5,13 +5,13 @@
 <img src="https://sarahmurphy86.github.io/assets/profile_pic.png" alt="Cartoon Profile Picture of Sarah" width="14%" height="21%" align="left">
 I am passionate about technology and human behaviour, and how they interact with one another. I want to design and build software that feels intuitive, user friendly and accessible.
 
-Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@gmail.com) or through [LinkedIn](http://www.linkedin.com/in/sarah-murphy-173966120)
+If you like what you see, please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@gmail.com) or through <a href="http://www.linkedin.com/in/sarah-murphy-173966120" target="_blank">LinkedIn</a>
 * * *
 
 # My work
 <img src="https://sarahmurphy86.github.io/assets/edinburgh_fringe_festival_image.png" alt="Text on image reads Portfolio- Edinburgh Fringe Review" width="30%" height="50%" align="left"> As a long time user of the  Edinburgh Fringe Festival website, I have always struggled to find shows by time. Therefore, I thought this would be a great opportunity to address the problem with a design solution. Take a look at my work by clicking the link below.
 
-<a href="https://docs.google.com/presentation/d/10Pxz8xr1g2LSgOuYFKRa_3YhODiO78Ybx4sgXYjqlQs/edit?usp=sharing" target="_blank"> Edinburgh Fringe Festival Review</a>
+<a href="https://docs.google.com/presentation/d/10Pxz8xr1g2LSgOuYFKRa_3YhODiO78Ybx4sgXYjqlQs/edit?usp=sharing" target="_blank"> Edinburgh Fringe Review</a>
 
 <img src="https://sarahmurphy86.github.io/assets/bbc_project_image.png" alt="Text on image reads Portfolio- The BBC Project" width="30%" height="50%" align="left"> As part of my final project at <a href="https://codeclan.com" target="_blank"> CodeClan</a>, I was tasked to to build an interactive educational app for the BBC.
 
