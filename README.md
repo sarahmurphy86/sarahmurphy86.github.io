@@ -76,7 +76,7 @@ I then wanted to consider all the steps Scott would take when interacting with t
 
 ### Interface sketches and wireframes
 
-It was then time to get the pen and paper out, sketching a low-fidelity user interface. Following some initial feedback from the team (e.g. centering the submit button), I moved onto UXPin to produce some wireframes - you can see my iterative process below.
+It was then time to get the pen and paper out, sketching a low-fidelity user interface. Following some initial feedback from the team (e.g. centring the submit button), I moved onto UXPin to produce some wireframes - you can see my iterative process below.
 
 ![Sketching](https://sarahmurphy86.github.io/assets/sketch_and_wireframe.png)
 
