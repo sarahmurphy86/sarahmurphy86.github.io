@@ -104,8 +104,8 @@ Once we had built a functional app, this seemed like a great opportunity to get 
 <br/>
 <br/>
 <br/>
-I wanted to find out:
-test
+<br/>
+<p align="left">I wanted to find out:</p>
 * How the participants interacted with the app e.g did they understand the instructions and could they work out how to select a country on the map?
 * If they found the app fun to use?
 * If they learnt anything by using the app e.g where the countries are in the world, or if they could remember any of the facts about the countries?
