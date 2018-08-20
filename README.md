@@ -106,17 +106,17 @@ Once we had built a functional app, this seemed like a great opportunity to get 
 <br/>
 <br/>
 <br/>By conducting the user testing, I wanted to find out:
-* How the participants interacted with the app e.g did they understand the instructions and could they work out how to select a country on the map
+* How the participants interacted with the app e.g did they understand the instructions and could they work out how to select a country on the map?
 * If they found the app fun to use?
-* If they felt as if they had learnt anything by using the app e.g where the countries are in the world, or if they could remember any of the facts about the countries?
-* What parts of the app did they like or dislike
+* If they learnt anything by using the app e.g where the countries are in the world, or if they could remember any of the facts about the countries?
+* What parts of the app they liked or disliked
 * What could I do to improve their experience with the app?
 
 ### An iterative process...
 
-The user testing provided some great ideas for how we could go about making improvements to the app.
+The user testing highlighted some difficulties the participants had when using the app, and gave us some ideas on how we could improve the user experience.
 
-With my colleagues we decided to:
+My colleagues and I decided to make the following changes:
 
 1. **Ensure the submit button was visible** - participants did not realise they needed to scroll down the page to click the submit button,  so we worked on CSS to reformat the layout of the page to ensure the submit button was visible without the need to scroll
 2. **Colour overlay changed** - participants thought that the country colour overlay (to indicate a country had been selected) indicated whether their guess was correct or not, so we changed the colour scheme from green to orange to reduce confusion
@@ -130,8 +130,7 @@ Designing an accessible app is something that is very important to me, and I wan
 
 1. Making the app accessible to people using assistive technologies such as screen readers, by ensuring the !DOCTYPE html was used in the HTML file and alt-text was added when we used images.
 2. Used the <a href="https://www.bdadyslexia.org.uk/" target="_blank">British Dyslexia Association website</a> to research how to make the app dyslexia friendly. Their recommendation was to use a sans serif font, and to use dark print on a pale background which formed the basis for our design.
-3. One of our user needs was to “be able to interact with the app easily, and not need to rely on colours alone to navigate through the site". We designed the app with this in mind, but I also tested the app using a site called <a href="http://www.colororacle.org/" target="_blank">Colour Oracle</a>. This allowed me to check what our app looks if you don’t have 100% colour vision and gave me reassurance that you can interact with it easily without relying in colour.
-
+3. One of our user needs was to “be able to interact with the app easily, and not need to rely on colours alone to navigate through the site". We designed the app with this in mind, but I also tested the app using a site called <a href="http://www.colororacle.org/" target="_blank">Colour Oracle</a>. This allowed me to check what our app looks if you don’t have 100% colour vision and gave me reassurance that you can interact with it easily without relying on colour.
 
 ### Design improvements
 After the user testing, I asked participants how I could improve the app…they had some great ideas, and if we had more time for this project I would have liked to implement these.
@@ -146,7 +145,7 @@ As with any project, there were challenges along the way such as:
 * Adapting to working with a new team with different working styles 
 
 ### Key takeaway
-*  Designing and building something that is simple and easy to use from the user perspective is difficult.
+*  Designing and building something that is simple and easy to use from the users perspective is difficult.
 
 ### Want to take a look at the app?
 You can find a link to the app on my GitHub account below.  Once you have downloaded the code to your local repository, the README.md file explain how to install and run the app.<br/>
