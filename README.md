@@ -80,13 +80,13 @@ I then needed to consider all the steps the user takes when interacting with the
 
 #### Interface sketches and wireframes
 
-It was then time to get the pen and paper out, sketching a low-fidelity user interface. After presenting these to the team for some initial feedback (e.g.centering the submit button), I then moved onto UXPin to produce some wireframes - you can see my iterative process below.
+It was then time to get the pen and paper out, sketching a low-fidelity user interface. Following some initial feedback from the team (e.g. centering the submit button), I moved onto UXPin to produce some wireframes - you can see my iterative process below.
 
 ![Sketching](https://sarahmurphy86.github.io/assets/sketch_and_wireframe.png)
 
 #### Prototype
 
-My next step was to build an interactive mock-up of the site, in order to experience what it would 'feel' like from a user perspective navigating through the app. After presenting this to my colleagues, we were all clear about how we wanted the app to look, feel and function before we started work building it.
+My next step was to build an interactive mock-up of the site, so that I could bring the user interface to life. This meant my colleagues and I were able to experience what it would ‘feel’ like to navigate through the app, what the end product could look like and how the functionality should work before we began building it.
 
 You can take a look at the prototype by clicking on the link below.
 
@@ -96,7 +96,7 @@ You can take a look at the prototype by clicking on the link below.
 
 Once we had built a functional app, this seemed like a great opportunity to get some potential users to try it out and give us some feedback. 
 
-<img src="https://sarahmurphy86.github.io/assets/user_testing_image_2.png" alt="Photograph of two users testing the application" width="40%" height="60%" align="left"> 
+<img src="https://sarahmurphy86.github.io/assets/user_testing_image_2.png" alt="Photograph of two participants testing the application" width="40%" height="60%" align="left"> 
 
 I recruited three participants to test out our app based on my proto-personas. 
 
@@ -104,53 +104,51 @@ I recruited three participants to test out our app based on my proto-personas.
 * 13 year old female - student
 * 50 year old female - teacher and parent
 
-I wanted to understand:
-1. How users **interact** with the app e.g did they understand the instructions and could they work out how to select a country on the map
-2. Was the app **fun** to use?
+The purpose of the user testing was to find out:
+1. How the participants **interacted** with the app e.g did they understand the instructions and could they work out how to select a country on the map
+2. Did they find the app **fun** to use?
 3. Did they **learn** where the countries are in the world, or could they remember any of the facts about the countries?
-4. What parts of the app did they **like / dislike**
-5. What could I do to **improve** the app and make it better
-
-<img src="https://sarahmurphy86.github.io/assets/user_testing_image_2.png" alt="Photograph of two users testing the application" width="35%" height="55%" align="left"> 
+4. What parts of the app did they **like or dislike**
+5. What could I do to **improve** their experience with the app?
 
 
 #### An iterative process...
 
-Following our user testing, the following changes were made to the app:-
+The user testing was incredibly valuable, and provided some great ideas for how we could go about making improvements to the app.
 
-1. **Submit button made visible** - we worked on CSS to ensure that the submit button was visible on the page without the need for the user to scroll to find it
-2. **Colour overlay changed** - the colour overlay used to indicate what country had been clicked was changed from green to orange
-3. **Images of character** -  our character was added to the pictures of the famous landmarks to ensure that the narrative flowed
-4. **Landmark pin** - work was done on this to ensure the landmark pin clearly indicated the country
-5. **Voice over** - added to the app to indicate whether the user had guessed correctly 
+With my colleagues we decided to:
+
+1. **Ensure the submit button was visible** - our participants did not realise they needed to scroll down the page to click the button,  so we worked on CSS to reformat the layout of the page to ensure the submit button was visible without the need to scroll
+2. **Colour overlay changed** - our participants thought that the country colour overlay (to indicate a country had been selected) indicated whether their guess was correct or not, so we changed the colour scheme from green to orange to reduce confusion
+3. **Images of character** -  it became clear that the narrative behind of our app didn’t really flow e.g. our character is introduced in the instructions but doesn’t appear again, so we added the character to the pictures of the famous landmarks to ensure continuity of our story
+4. **Landmark pin** -participant feedback indicated that it was hard to tell which country the pin landed on - so we worked on the pin to ensure it clearly indicated the country
+5. **Voice over** - participants liked the voice-over that had been added to indicate whether they had guessed correctly, so we agreed to keep this feature 
 
 #### Accessibility considerations
 
-| Feature                               | Why                                                                                          | 
-|:--------------------------------------|:---------------------------------------------------------------------------------------------|
-| !DOCTYPE HTML                         | Helps screenreaders                                                                          |
-| Font size set as a % or em            | Allows user to change font size to their liking                                              |
-| Font is Sans Serif                    | Recommended on British Dyslexia Association website (font used is Dosis - child friendly too)|
-| Try to make colours dyslexia friendly | Most users prefer dark print on a pale background. Colour preferences vary                   |
-| Alt text for images                   | Helps screen readers                                                                         |
-| Test site with Colour Oracle          | Ensure site provides a good experience if you do not have 100% colour vision                 |
+Designing an accessible app is something that is very important to me, and I wanted to ensure that the design choices we made were considerate of user needs. The ways we went about doing this were:-
 
-***
+1. Ensured that **!DOCTYPE html** was used in the HTML file and **alt-text** was added when we used images to make it accessible to people using assistive technologies such as a screen readers
+2. Used the **British Dyslexia Association website** to research how to make the app dyslexia friendly. Their recommendation was to use a sans serif font, and to use dark print on a pale background which formed the basis for our design
+3. One of our user needs was to “be able to interact with the app easily, and not need to rely on colours alone to navigate through the site”. We designed the app with this in mind, but I also tested the app using a site called **Colour Oracle**. This allowed me to check what our app looks if you don’t have 100% colour vision and gave me confidence that you can interact with it easily without relying in colour
+
 
 #### Design improvements
-The users suggested the following improvements, if we had more time we would have liked to implement these:
-* All users liked the idea of “hotter” and “colder” clues dependent on your country guess
-* All users liked the ideas of a “hints” button
-* Users would have liked this to be a game with a points system
+After the user testing, I asked participants how I could make our app better…they had some great ideas and if we had more time for this project I would have liked to implement these.
+* All participants liked the idea of “hotter” and “colder” clues dependent on your country guess
+* All participants liked the ideas of a “hints” button 
+* Participants would have liked this to be a game with a points system
 
 #### Challenges
-* Ensuring that the team kept the user at the heart of the product (not adding 'cool' features because we can)
-* Time constraints
-* Adapting to working with a new team with different working styles
+As with any project, there were challenges along the way such as:
+* Ensuring that the team kept the user at the heart of the product  - not adding 'cool' features because we can
+* Time constraints - we only had five days to design and build the application
+* Adapting to working with a new team with different working styles 
 
 #### Key takeaway
-* Trying to design something simple and easy to use is difficult
+*  Designing and building something that is simple and easy to use from the user perspective is difficult.
 
-### You can find a link to the app below:
+### Want to take a look at the app?
+You can find a link to the app on my GitHub account below. Once you have downloaded the code to your local repository you can find the instructions on how to install and run the app on the README.md file.
 [Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).
 
