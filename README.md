@@ -70,7 +70,7 @@ First of all, I need to work out how the users would interact with the app and h
 
 ### Process map
 
-I then needed to consider all the steps the user takes when interacting with the app and what decisions they need to make along the way. I believe that visually describing the user flow was important for the team, as it ensured that we all understood the series of events that would lead up to the end result.
+I then wanted to consider all the steps Scott would take when interacting with the app and what decisions he would need to make along the way. I believe that visually describing the user flow was important for the team, as it ensured that we all understood the series of events that would lead up to the end result.
 
 ![Process Map](https://sarahmurphy86.github.io/assets/process_map.png)
 
