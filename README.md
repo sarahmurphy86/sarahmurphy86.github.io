@@ -33,7 +33,7 @@ The BBC were looking to improve their online offering of educational content by 
 #### Proto-personas
 I decided to design a number of proto-personas to answer the following questions:
 
-<img src="https://sarahmurphy86.github.io/assets/sherlock_holmes.png" alt="Cartoon image of Sherlock Holmes with a magnifying glass" width="14%" height="21%" align="left"> * Who are our users?
+<img src="https://sarahmurphy86.github.io/assets/sherlock_cartoon.png" alt="Cartoon image of Sherlock Holmes with a magnifying glass" width="14%" height="21%" align="left"> * Who are our users?
 * What do they want?
 * How do they behave?
 * What are their goals?
