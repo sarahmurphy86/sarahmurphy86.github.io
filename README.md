@@ -15,7 +15,7 @@ Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@g
 
 <img src="https://sarahmurphy86.github.io/assets/bbc_project_image.png" alt="Text on image reads Portfolio- The BBC Project" width="30%" height="50%" align="left"> As part of my final project at <a href="https://codeclan.com" target="_blank"> CodeClan</a>, I was tasked to to build an interactive educational app for the BBC.
 
-Scroll down the page to take a look at how I went about doing this.
+Scroll down the page to take a look at how I approached this.
 <br/>
 <br/>
 <br/>
