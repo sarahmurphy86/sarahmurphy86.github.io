@@ -32,10 +32,11 @@ The BBC were looking to improve their online offering of educational content by 
 
 #### Proto-personas
 I decided to design a number of proto-personas to answer the following questions:
-1. Who are our users?
-2. What do they want?
-3. How do they behave?
-4. What are their goals?
+
+<img src="https://sarahmurphy86.github.io/assets/sherlock_holmes.png" alt="Cartoon image of Sherlock Holmes with a magnifying glass" width="14%" height="21%" align="left"> * Who are our users?
+* What do they want?
+* How do they behave?
+* What are their goals?
 
 **Example:** Scott, aged 10, primary school pupil
 
@@ -88,7 +89,7 @@ My next step was to build an interactive mock-up of the site, so that I could br
 
 You can take a look at the prototype by clicking on the link below.
 
-[Link to the HTML prototype](https://preview.uxpin.com/18620110def9cd42c43a7f5650fa077be6aa4d48#/pages//simulate/no-panels?mode=i)
+<a href="https://preview.uxpin.com/18620110def9cd42c43a7f5650fa077be6aa4d48#/pages//simulate/no-panels?mode=i" target="_blank"> Link to my HTML prototype</a>)
 
 #### User testing
 
