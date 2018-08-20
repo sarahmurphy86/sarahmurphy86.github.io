@@ -99,7 +99,8 @@ I recruited three participants to test out our app based on my proto-personas.
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
 The purpose of the user testing was to find out:
 1. How the participants interacted with the app e.g did they understand the instructions and could they work out how to select a country on the map
 2. Did they find the app fun to use?
@@ -123,8 +124,8 @@ With my colleagues we decided to:
 
 Designing an accessible app is something that is very important to me, and I wanted to ensure that the design choices we made were considerate of user needs. The ways we went about doing this were:-
 
-1. Ensured that **!DOCTYPE html** was used in the HTML file and **alt-text** was added when we used images to make the app accessible to people using assistive technologies such as a screen readers
-2. Used the <a href="https://www.bdadyslexia.org.uk/" target="_blank">British Dyslexia Association website</a> to research how to make the app dyslexia friendly. Their recommendation was to use a sans serif font, and to use dark print on a pale background which formed the basis for our design
+1. Making the app accessible to people using assistive technologies such as screen readers by ensuring the !DOCTYPE html was used in the HTML file and alt-text was added when we used images.
+2. Used the <a href="https://www.bdadyslexia.org.uk/" target="_blank">British Dyslexia Association website</a> to research how to make the app dyslexia friendly. Their recommendation was to use a sans serif font, and to use dark print on a pale background which formed the basis for our design.
 3. One of our user needs was to “be able to interact with the app easily, and not need to rely on colours alone to navigate through the site". We designed the app with this in mind, but I also tested the app using a site called <a href="http://www.colororacle.org/" target="_blank">Colour Oracle</a>. This allowed me to check what our app looks if you don’t have 100% colour vision and gave me confidence that you can interact with it easily without relying in colour.
 
 
@@ -144,6 +145,7 @@ As with any project, there were challenges along the way such as:
 *  Designing and building something that is simple and easy to use from the user perspective is difficult.
 
 ### Want to take a look at the app?
-You can find a link to the app on my GitHub account below. Once you have downloaded the code to your local repository you can find the instructions on how to install and run the app on the README.md file.
-[Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).
+You can find a link to the app on my GitHub account below. <br/>
+[Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).<br/>
+Once you have downloaded the code to your local repository the instructions on how to install and run the app can be found on the README.md file.
 
