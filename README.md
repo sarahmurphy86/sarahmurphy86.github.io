@@ -18,6 +18,7 @@ Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@g
 Scroll down the page to take a look at how I went about doing this.
 <br/>
 <br/>
+<br/>
 * * *
 
 # The BBC project
@@ -149,6 +150,6 @@ As with any project, there were challenges along the way such as:
 *  Designing and building something that is simple and easy to use from the user perspective is difficult.
 
 ### Want to take a look at the app?
-You can find a link to the app on my GitHub account below.  Once you have downloaded the code to your local repository, the README.md file explain how to install and run the app<br/>
+You can find a link to the app on my GitHub account below.  Once you have downloaded the code to your local repository, the README.md file explain how to install and run the app.<br/>
 <a href="https://github.com/sarahmurphy86/JSProject-WhereInTheWorld" target="_blank">Link to the JavaScript app</a>
 
