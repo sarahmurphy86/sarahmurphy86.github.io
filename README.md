@@ -53,7 +53,7 @@ I then documented the user needs to understand what success looked like based on
 
 | As a...                    | I want to...                                                                                                | So that ...                                               |
 |:---------------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
-| Ten year old boy           | Learn about where the countries of the world                                                                |I can improve on my geography and pass he end of year test | 
+| Ten year old boy           | Learn about where the countries of the world are                                                            |I can improve on my geography and pass the end of year test| 
 | Eight year old girl        | Play a cool game                                                                                            |I can have a competition with my friends                   |         
 | Person who is colourblind  | Be able to interact with the app easily, and not need to rely on colours alone to navigate through the site |I can join in the fun too                                  |
 | Primary school teacher     | Have an educational game that is free to use and and I can share with my class                              |My students can learn about geography and have fun doing it|
