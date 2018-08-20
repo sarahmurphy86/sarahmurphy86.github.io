@@ -28,7 +28,7 @@ The BBC were looking to improve their online offering of educational content by 
 
 >We chose to design an app aimed at children 8 to 11 years old to help them recognise geographical points of interest. The user will be shown an image of a famous landmark, and be asked to click a map to show where in the world they think this famous landmark is located. The user will then find out if their guess was correct, and will be shown some interesting facts on the famous landmark and the country it is in. 
 
-## What problem was I trying to solve?
+## What problems was I trying to solve?
 1. The BBC believe that children do not understand where the different countries are in the world.
 2. The BBC believe that children have little knowledge of human/man-made and natural/physical geography.
 
