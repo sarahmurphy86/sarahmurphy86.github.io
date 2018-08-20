@@ -102,7 +102,8 @@ Once we had built a functional app, this seemed like a great opportunity to get 
 <br/>
 <br/>
 <br/>
-I wanted to find out:
+<br/>
+By conducting the user testing, I wanted to find out:
 1. How the participants interacted with the app e.g did they understand the instructions and could they work out how to select a country on the map
 2. If they found the app fun to use?
 3. If they felt as if they had learnt anything by using the app e.g where the countries are in the world, or if they could remember any of the facts about the countries?
@@ -147,6 +148,6 @@ As with any project, there were challenges along the way such as:
 
 ### Want to take a look at the app?
 You can find a link to the app on my GitHub account below. <br/>
-[Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).<br/>
-Once you have downloaded the code to your local repository the instructions on how to install and run the app can be found on the README.md file.
+[Link to the JavaScript application](https://github.com/sarahmurphy86/JSProject-WhereInTheWorld).
+<br/>Once you have downloaded the code to your local repository the instructions on how to install and run the app can be found on the README.md file.
 
