@@ -55,10 +55,6 @@ I then documented the user needs to understand what success looked like based on
 | Person who is colourblind  | Be able to interact with the app easily, and not need to rely on colours alone to navigate through the site |I can join in the fun too                                  |
 | Primary school teacher     | Have an educational game that is free to use and and I can share with my class                              |My students can learn about geography and have fun doing it|
 
-To validate the proto-personas, I asked some real life children (my niece and nephews) what was important to them....
-
-The resounding response was that it needed to be *add image here**
-
  * * *                                                            
 
 #### The user journey
