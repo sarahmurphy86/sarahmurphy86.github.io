@@ -11,7 +11,7 @@ Please get in touch via email [sarah.graham86@gmail.com](mailto:sarah.graham86@g
 # My work
 <img src="https://sarahmurphy86.github.io/assets/edinburgh_fringe_festival_image.png" alt="Text on image reads Portfolio- Edinburgh Fringe Review" width="20%" height="40%" align="left"> As a long time user of the  Edinburgh Fringe Festival website, I have always struggled to find shows by time. Therefore, I thought this would be a great opportunity to address the problem with a design solution. 
 
-Take a look at my work by downloading my slides *ADD SLIDES HERE ONCE COMPLETE*
+Take a look at my work by [downloading my slides](https://docs.google.com/presentation/d/10Pxz8xr1g2LSgOuYFKRa_3YhODiO78Ybx4sgXYjqlQs/edit?usp=sharing)
 
 <img src="https://sarahmurphy86.github.io/assets/bbc_project_image.png" alt="Text on image reads Portfolio- The BBC Project" width="20%" height="40%" align="left"> As part of my final project at [CodeClan](https://codeclan.com), I was tasked to to build an interactive educational app for the BBC.
 
@@ -26,7 +26,7 @@ The BBC were looking to improve their online offering of educational content by 
 >We chose to design an app aimed at children 8 to 11 years old to help them recognise geographical points of interest. The user will be shown an image of a famous landmark, and be asked to click a map to show where in the world they think this famous landmark is located. The user will then find out if their guess was correct, and will be shown some interesting facts on the famous landmark and the country it is in. 
 
 ## What problem was I trying to solve?
-1. The BBC believe that children do not understand where the different countries are in the world, or what continent they are located in.
+1. The BBC believe that children do not understand where the different countries are in the world.
 2. The BBC believe that children have little knowledge of human/man-made and natural/physical geography.
 
 
@@ -94,10 +94,9 @@ You can take a look at the prototype by clicking on the link below.
 
 #### User testing
 
-Once we had built a functional working app, this seemed like a great opportunity to get some potential users to try it out and give us some feedback. I wanted to understand how users interacted with the app e.g where there any parts that were difficult to use and what they liked and didn't like.
+Once we had built a functional app, this seemed like a great opportunity to get some potential users to try it out and give us some feedback. 
 
-
-<img src="https://sarahmurphy86.github.io/assets/user_testing_image_2.png" alt="Photograph of two users testing the application" width="35%" height="55%" align="left"> 
+<img src="https://sarahmurphy86.github.io/assets/user_testing_image_2.png" alt="Photograph of two users testing the application" width="40%" height="60%" align="left"> 
 
 I recruited three participants to test out our app based on my proto-personas. 
 
@@ -105,6 +104,14 @@ I recruited three participants to test out our app based on my proto-personas.
 * 13 year old female - student
 * 50 year old female - teacher and parent
 
+I wanted to understand:
+1. How users **interact** with the app e.g did they understand the instructions and could they work out how to select a country on the map
+2. Was the app **fun** to use?
+3. Did they **learn** where the countries are in the world, or could they remember any of the facts about the countries?
+4. What parts of the app did they **like / dislike**
+5. What could I do to **improve** the app and make it better
+
+<img src="https://sarahmurphy86.github.io/assets/user_testing_image_2.png" alt="Photograph of two users testing the application" width="35%" height="55%" align="left"> 
 
 
 #### An iterative process...
