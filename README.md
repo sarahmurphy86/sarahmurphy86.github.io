@@ -82,7 +82,7 @@ It was then time to get the pen and paper out, sketching a low-fidelity user int
 
 ### Prototype
 
-My next step was to build an interactive mock-up of the app, so that I could bring the user interface to life. This meant my colleagues and I were able to experience how it ‘felt’ to navigate through the app, how it should work, and what the end product could look like before we began building it.
+My next step was to build a mock-up of the app, so that I could bring the user interface to life. This meant my colleagues and I were able to experience how it ‘felt’ to navigate through the app, how it should work, and what the end product could look like before we began building it.
 
 You can take a look at the prototype by clicking on the link below.
 
