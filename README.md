@@ -39,11 +39,12 @@ I decided to design a number of proto-personas to answer the following questions
 * How do they behave?
 * What do they want? 
 
-**Proto-persona example:**<br/>
+**Example:**<br/>
 <img src="https://sarahmurphy86.github.io/assets/scott_proto_persona.png" alt="Cartoon image of a boy standing front of some goalposts with a football" width="21%" height="28%" align="left"> **Who:** Scott, aged 10, primary school pupil<br/> **Behaviours:** Likes to play football with his friends and gets bored easily in class<br/>
 **Needs and goals:** Scott wants to get better at geography so he can pass the end of year test
-
-
+<br/>
+<br/>
+<br/>
 #### User needs
 
 I then documented the user needs to understand what success looked like based on the proto-personas.
