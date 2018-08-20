@@ -111,27 +111,27 @@ By conducting the user testing, I wanted to find out:
 
 #### An iterative process...
 
-The user testing was incredibly valuable, and provided some great ideas for how we could go about making improvements to the app.
+The user testing provided some great ideas for how we could go about making improvements to the app.
 
 With my colleagues we decided to:
 
-1. **Ensure the submit button was visible** - our participants did not realise they needed to scroll down the page to click the button,  so we worked on CSS to reformat the layout of the page to ensure the submit button was visible without the need to scroll
-2. **Colour overlay changed** - our participants thought that the country colour overlay (to indicate a country had been selected) indicated whether their guess was correct or not, so we changed the colour scheme from green to orange to reduce confusion
+1. **Ensure the submit button was visible** - participants did not realise they needed to scroll down the page to click the submit button,  so we worked on CSS to reformat the layout of the page to ensure the submit button was visible without the need to scroll
+2. **Colour overlay changed** - participants thought that the country colour overlay (to indicate a country had been selected) indicated whether their guess was correct or not, so we changed the colour scheme from green to orange to reduce confusion
 3. **Images of character** -  it became clear that the narrative behind of our app didn’t really flow e.g. our character is introduced in the instructions but doesn’t appear again, so we added the character to the pictures of the famous landmarks to ensure continuity of our story
-4. **Landmark pin** -participant feedback indicated that it was hard to tell which country the pin landed on - so we worked on the pin to ensure it clearly indicated the country
+4. **Landmark pin** - participants found it difficult to tell which country the pin landed on, so we worked on the design of the pin to ensure it clearly indicated the country
 5. **Voice over** - participants liked the voice-over that had been added to indicate whether they had guessed correctly, so we agreed to keep this feature 
 
-#### Accessibility considerations
+#### Making the app inclusive
 
-Designing an accessible app is something that is very important to me, and I wanted to ensure that the design choices we made were considerate of user needs. The ways we went about doing this were:-
+Designing an accessible app is something that is very important to me, and I wanted to ensure that the design choices we made were considerate of user needs. We made the app inclusive by:
 
-1. Making the app accessible to people using assistive technologies such as screen readers by ensuring the !DOCTYPE html was used in the HTML file and alt-text was added when we used images.
+1. Making the app accessible to people using assistive technologies such as screen readers, by ensuring the !DOCTYPE html was used in the HTML file and alt-text was added when we used images.
 2. Used the <a href="https://www.bdadyslexia.org.uk/" target="_blank">British Dyslexia Association website</a> to research how to make the app dyslexia friendly. Their recommendation was to use a sans serif font, and to use dark print on a pale background which formed the basis for our design.
-3. One of our user needs was to “be able to interact with the app easily, and not need to rely on colours alone to navigate through the site". We designed the app with this in mind, but I also tested the app using a site called <a href="http://www.colororacle.org/" target="_blank">Colour Oracle</a>. This allowed me to check what our app looks if you don’t have 100% colour vision and gave me confidence that you can interact with it easily without relying in colour.
+3. One of our user needs was to “be able to interact with the app easily, and not need to rely on colours alone to navigate through the site". We designed the app with this in mind, but I also tested the app using a site called <a href="http://www.colororacle.org/" target="_blank">Colour Oracle</a>. This allowed me to check what our app looks if you don’t have 100% colour vision and gave me reassurance that you can interact with it easily without relying in colour.
 
 
 #### Design improvements
-After the user testing, I asked participants how I could make our app better…they had some great ideas and if we had more time for this project I would have liked to implement these.
+After the user testing, I asked participants how I could improve the app…they had some great ideas, and if we had more time for this project I would have liked to implement these.
 * All participants liked the idea of “hotter” and “colder” clues dependent on your country guess
 * All participants liked the ideas of a “hints” button 
 * Participants would have liked this to be a game with a points system
