@@ -87,11 +87,11 @@ You can take a look at the prototype by clicking on the link below.
 
 #### User testing
 
-Once we had built a functional app, this seemed like a great opportunity to get some potential users to try it out and give us some feedback. 
+Once we had built a functional app, this seemed like a great opportunity to get some potential users to try it out and give us some feedback. I recruited three participants to test out our app based on my proto-personas.
 
 <img src="https://sarahmurphy86.github.io/assets/user_testing_image_2.png" alt="Photograph of two participants testing the application" width="50%" height="75%" align="left"> 
 
-I recruited three participants to test out our app based on my proto-personas. 
+**Participants:** 
 
 * 10 year old male - student
 * 13 year old female - student
