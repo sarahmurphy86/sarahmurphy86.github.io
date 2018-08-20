@@ -37,10 +37,10 @@ I decided to design a number of proto-personas to answer the following questions
 
 * Who are our users?
 * How do they behave?
-* What do they want?
+* What do they want? 
 
-**Example:** Scott, aged 10, primary school pupil
-<img src="https://sarahmurphy86.github.io/assets/scott_proto_persona.png" alt="Cartoon image of a boy standing front of some goalposts with a football" width="14%" height="21%" align="left"> **Behaviours:** Likes to play football with his friends and gets bored easily in class
+**Proto-persona example:**<br/>
+<img src="https://sarahmurphy86.github.io/assets/scott_proto_persona.png" alt="Cartoon image of a boy standing front of some goalposts with a football" width="21%" height="28%" align="left"> **Who:** Scott, aged 10, primary school pupil<br/> **Behaviours:** Likes to play football with his friends and gets bored easily in class<br/>
 **Needs and goals:** Scott wants to get better at geography so he can pass the end of year test
 
 
@@ -95,7 +95,7 @@ I recruited three participants to test out our app based on my proto-personas.
 
 * 10 year old male - student
 * 13 year old female - student
-* 50 year old female - teacher and parent
+* 50 year old female - teacher and parent<br/>
 
 The purpose of the user testing was to find out:
 1. How the participants **interacted** with the app e.g did they understand the instructions and could they work out how to select a country on the map
