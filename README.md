@@ -83,7 +83,7 @@ My next step was to build an interactive mock-up of the site, so that I could br
 
 You can take a look at the prototype by clicking on the link below.
 
-<a href="https://preview.uxpin.com/18620110def9cd42c43a7f5650fa077be6aa4d48#/pages//simulate/no-panels?mode=i" target="_blank"> Link to my HTML prototype</a>)
+<a href="https://preview.uxpin.com/18620110def9cd42c43a7f5650fa077be6aa4d48#/pages//simulate/no-panels?mode=i" target="_blank"> Link to my HTML prototype</a>
 
 #### User testing
 
@@ -95,15 +95,16 @@ I recruited three participants to test out our app based on my proto-personas.
 
 * 10 year old male - student
 * 13 year old female - student
-* 50 year old female - teacher and parent<br/>
+* 50 year old female - teacher and parent
+<br/>
+<br/>
 
 The purpose of the user testing was to find out:
-1. How the participants **interacted** with the app e.g did they understand the instructions and could they work out how to select a country on the map
-2. Did they find the app **fun** to use?
-3. Did they **learn** where the countries are in the world, or could they remember any of the facts about the countries?
-4. What parts of the app did they **like or dislike**
-5. What could I do to **improve** their experience with the app?
-
+1. How the participants interacted with the app e.g did they understand the instructions and could they work out how to select a country on the map
+2. Did they find the app fun to use?
+3. Did they learn where the countries are in the world, or could they remember any of the facts about the countries?
+4. What parts of the app did they like or dislike
+5. What could I do to improve their experience with the app?
 
 #### An iterative process...
 
@@ -121,9 +122,9 @@ With my colleagues we decided to:
 
 Designing an accessible app is something that is very important to me, and I wanted to ensure that the design choices we made were considerate of user needs. The ways we went about doing this were:-
 
-1. Ensured that **!DOCTYPE html** was used in the HTML file and **alt-text** was added when we used images to make it accessible to people using assistive technologies such as a screen readers
-2. Used the **British Dyslexia Association website** to research how to make the app dyslexia friendly. Their recommendation was to use a sans serif font, and to use dark print on a pale background which formed the basis for our design
-3. One of our user needs was to “be able to interact with the app easily, and not need to rely on colours alone to navigate through the site”. We designed the app with this in mind, but I also tested the app using a site called **Colour Oracle**. This allowed me to check what our app looks if you don’t have 100% colour vision and gave me confidence that you can interact with it easily without relying in colour
+1. Ensured that **!DOCTYPE html** was used in the HTML file and **alt-text** was added when we used images to make the app accessible to people using assistive technologies such as a screen readers
+2. Used the <a href="https://www.bdadyslexia.org.uk/" target="_blank">British Dyslexia Association website</a> to research how to make the app dyslexia friendly. Their recommendation was to use a sans serif font, and to use dark print on a pale background which formed the basis for our design
+3. One of our user needs was to “be able to interact with the app easily, and not need to rely on colours alone to navigate through the site”. We designed the app with this in mind, but I also tested the app using a site called <a href="http://www.colororacle.org/" target="_blank">Colour Oracle</a>. This allowed me to check what our app looks if you don’t have 100% colour vision and gave me confidence that you can interact with it easily without relying in colour.
 
 
 #### Design improvements
