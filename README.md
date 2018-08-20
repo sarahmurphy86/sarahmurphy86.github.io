@@ -102,11 +102,10 @@ Once we had built a functional app, this seemed like a great opportunity to get 
 <br/>
 <br/>
 <br/>
-The purpose of the user testing was to find out:
-
+I wanted to find out:
 1. How the participants interacted with the app e.g did they understand the instructions and could they work out how to select a country on the map
-2. Did they find the app fun to use?
-3. Did they learn where the countries are in the world, or could they remember any of the facts about the countries?
+2. If they found the app fun to use?
+3. If they felt as if they had learnt anything by using the app e.g where the countries are in the world, or if they could remember any of the facts about the countries?
 4. What parts of the app did they like or dislike
 5. What could I do to improve their experience with the app?
 
