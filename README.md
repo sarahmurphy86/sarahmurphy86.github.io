@@ -104,6 +104,7 @@ Once we had built a functional app, this seemed like a great opportunity to get 
 <br/>
 <br/>
 <br/>
+<br/>
 I wanted to find out:
 * How the participants interacted with the app e.g did they understand the instructions and could they work out how to select a country on the map?
 * If they found the app fun to use?
