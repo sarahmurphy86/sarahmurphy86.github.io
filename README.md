@@ -64,7 +64,7 @@ I then documented the user needs to understand what success looked like based on
 
 Once I had a clear idea of who the users were and how I would meet their needs, I wanted to create a simple user interface. 
 
-First of all, I need to work out how the users would interact with the app and how the system would respond. To do this, I designed a simple user journey based on my proto-persona Scott.
+First of all, I needed to work out how the users would interact with the app and how the system would respond. To do this, I designed a simple user journey based on my proto-persona Scott.
 
 ![Diagram of the User Journey](https://sarahmurphy86.github.io/assets/user_journey.png)
 
