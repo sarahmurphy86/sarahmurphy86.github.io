@@ -84,10 +84,6 @@ It was then time to get the pen and paper out, sketching a low-fidelity user int
 
 My next step was to build a mock-up of the app, so that I could bring the user interface to life. This meant my colleagues and I were able to experience how it ‘felt’ to navigate through the app, how it should work, and what the end product could look like before we began building it.
 
-You can take a look at the prototype by clicking on the link below.
-
-<a href="https://preview.uxpin.com/18620110def9cd42c43a7f5650fa077be6aa4d48#/pages//simulate/no-panels?mode=i" target="_blank"> Link to my HTML prototype</a>
-
 ### User testing
 
 Once we had built a functional app, this seemed like a great opportunity to get some potential users to try it out and give us some feedback. I recruited three participants to test out our app based on my proto-personas.
